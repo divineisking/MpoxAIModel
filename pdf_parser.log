@@ -1,0 +1,1611 @@
+2025-02-03 10:12:46,768:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_010623_23.pdf
+2025-02-03 10:12:49,991:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_010623_23.pdf
+2025-02-03 10:12:50,011:INFO:Detected cumulative multi-year data
+2025-02-03 10:12:50,011:INFO:Skipping file due to cumulative multi-year data.
+2025-02-03 10:12:50,011:INFO:No valid data extracted from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_010623_23.pdf
+2025-02-03 10:12:50,011:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_010922_36.pdf
+2025-02-03 10:12:51,897:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_010922_36.pdf
+2025-02-03 10:12:51,952:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_011124_44.pdf
+2025-02-03 10:12:52,446:ERROR:Error extracting text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_011124_44.pdf: Unexpected EOF
+2025-02-03 10:12:52,446:INFO:No valid data extracted from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_011124_44.pdf
+2025-02-03 10:12:52,451:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_011222_49.pdf
+2025-02-03 10:12:54,298:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_011222_49.pdf
+2025-02-03 10:12:54,323:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_020223_6.pdf
+2025-02-03 10:12:55,822:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_020223_6.pdf
+2025-02-03 10:12:55,822:INFO:Detected cumulative multi-year data
+2025-02-03 10:12:55,822:INFO:Skipping file due to cumulative multi-year data.
+2025-02-03 10:12:55,822:INFO:No valid data extracted from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_020223_6.pdf
+2025-02-03 10:12:55,822:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_020323_10.pdf
+2025-02-03 10:12:57,297:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_020323_10.pdf
+2025-02-03 10:12:57,297:INFO:Detected cumulative multi-year data
+2025-02-03 10:12:57,297:INFO:Skipping file due to cumulative multi-year data.
+2025-02-03 10:12:57,302:INFO:No valid data extracted from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_020323_10.pdf
+2025-02-03 10:12:57,302:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_020622_23.pdf
+2025-02-03 10:13:03,205:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_020622_23.pdf
+2025-02-03 10:13:03,225:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_021117_45.pdf
+2025-02-03 10:13:09,175:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_021117_45.pdf
+2025-02-03 10:13:09,440:WARNING:No data rows parsed from report text.
+2025-02-03 10:13:09,440:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_021123_45.pdf
+2025-02-03 10:13:17,689:ERROR:Error extracting text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_021123_45.pdf: Unexpected EOF
+2025-02-03 10:13:17,689:INFO:No valid data extracted from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_021123_45.pdf
+2025-02-03 10:13:17,689:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_030823_32.pdf
+2025-02-03 10:13:19,523:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_030823_32.pdf
+2025-02-03 10:13:19,523:INFO:Detected cumulative multi-year data
+2025-02-03 10:13:19,523:INFO:Skipping file due to cumulative multi-year data.
+2025-02-03 10:13:19,523:INFO:No valid data extracted from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_030823_32.pdf
+2025-02-03 10:13:19,523:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_031024_40.pdf
+2025-02-03 10:13:20,076:ERROR:Error extracting text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_031024_40.pdf: Unexpected EOF
+2025-02-03 10:13:20,076:INFO:No valid data extracted from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_031024_40.pdf
+2025-02-03 10:13:20,076:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_031122_45.pdf
+2025-02-03 10:13:23,038:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_031122_45.pdf
+2025-02-03 10:13:23,068:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_040523_19.pdf
+2025-02-03 10:13:26,128:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_040523_19.pdf
+2025-02-03 10:13:26,128:INFO:Detected cumulative multi-year data
+2025-02-03 10:13:26,128:INFO:Skipping file due to cumulative multi-year data.
+2025-02-03 10:13:26,128:INFO:No valid data extracted from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_040523_19.pdf
+2025-02-03 10:13:26,128:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_040822_32.pdf
+2025-02-03 10:13:29,524:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_040822_32.pdf
+2025-02-03 10:13:29,576:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_050123_2.pdf
+2025-02-03 10:13:31,814:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_050123_2.pdf
+2025-02-03 10:13:31,814:INFO:Detected cumulative multi-year data
+2025-02-03 10:13:31,814:INFO:Skipping file due to cumulative multi-year data.
+2025-02-03 10:13:31,814:INFO:No valid data extracted from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_050123_2.pdf
+2025-02-03 10:13:31,814:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_050924_36.pdf
+2025-02-03 10:13:33,294:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_050924_36.pdf
+2025-02-03 10:13:33,294:INFO:Detected cumulative multi-year data
+2025-02-03 10:13:33,294:INFO:Skipping file due to cumulative multi-year data.
+2025-02-03 10:13:33,294:INFO:No valid data extracted from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_050924_36.pdf
+2025-02-03 10:13:33,294:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_051023_41.pdf
+2025-02-03 10:13:35,666:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_051023_41.pdf
+2025-02-03 10:13:35,666:INFO:Detected cumulative multi-year data
+2025-02-03 10:13:35,666:INFO:Skipping file due to cumulative multi-year data.
+2025-02-03 10:13:35,666:INFO:No valid data extracted from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_051023_41.pdf
+2025-02-03 10:13:35,666:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_060423_15.pdf
+2025-02-03 10:13:39,300:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_060423_15.pdf
+2025-02-03 10:13:39,300:INFO:Detected cumulative multi-year data
+2025-02-03 10:13:39,300:INFO:Skipping file due to cumulative multi-year data.
+2025-02-03 10:13:39,300:INFO:No valid data extracted from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_060423_15.pdf
+2025-02-03 10:13:39,300:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_060723_28.pdf
+2025-02-03 10:13:41,552:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_060723_28.pdf
+2025-02-03 10:13:41,552:INFO:Detected cumulative multi-year data
+2025-02-03 10:13:41,552:INFO:Skipping file due to cumulative multi-year data.
+2025-02-03 10:13:41,552:INFO:No valid data extracted from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_060723_28.pdf
+2025-02-03 10:13:41,552:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_061022_41.pdf
+2025-02-03 10:13:43,215:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_061022_41.pdf
+2025-02-03 10:13:43,245:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_070722_28.pdf
+2025-02-03 10:13:45,228:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_070722_28.pdf
+2025-02-03 10:13:45,259:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_070923_37.pdf
+2025-02-03 10:13:47,277:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_070923_37.pdf
+2025-02-03 10:13:47,277:INFO:Detected cumulative multi-year data
+2025-02-03 10:13:47,277:INFO:Skipping file due to cumulative multi-year data.
+2025-02-03 10:13:47,277:INFO:No valid data extracted from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_070923_37.pdf
+2025-02-03 10:13:47,277:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_071223_50.pdf
+2025-02-03 10:13:49,231:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_071223_50.pdf
+2025-02-03 10:13:49,231:INFO:Detected cumulative multi-year data
+2025-02-03 10:13:49,236:INFO:Skipping file due to cumulative multi-year data.
+2025-02-03 10:13:49,236:INFO:No valid data extracted from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_071223_50.pdf
+2025-02-03 10:13:49,236:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_080623_24.pdf
+2025-02-03 10:13:49,503:ERROR:Error extracting text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_080623_24.pdf: Unexpected EOF
+2025-02-03 10:13:49,503:INFO:No valid data extracted from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_080623_24.pdf
+2025-02-03 10:13:49,503:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_080824_32.pdf
+2025-02-03 10:13:51,207:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_080824_32.pdf
+2025-02-03 10:13:51,207:INFO:Detected cumulative multi-year data
+2025-02-03 10:13:51,207:INFO:Skipping file due to cumulative multi-year data.
+2025-02-03 10:13:51,207:INFO:No valid data extracted from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_080824_32.pdf
+2025-02-03 10:13:51,207:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_080922_37.pdf
+2025-02-03 10:13:53,989:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_080922_37.pdf
+2025-02-03 10:13:54,019:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_081222_50.pdf
+2025-02-03 10:13:55,955:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_081222_50.pdf
+2025-02-03 10:13:55,995:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_090223_7.pdf
+2025-02-03 10:13:57,720:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_090223_7.pdf
+2025-02-03 10:13:57,721:INFO:Detected cumulative multi-year data
+2025-02-03 10:13:57,721:INFO:Skipping file due to cumulative multi-year data.
+2025-02-03 10:13:57,721:INFO:No valid data extracted from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_090223_7.pdf
+2025-02-03 10:13:57,721:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_090323_11.pdf
+2025-02-03 10:13:59,752:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_090323_11.pdf
+2025-02-03 10:13:59,752:INFO:Detected cumulative multi-year data
+2025-02-03 10:13:59,752:INFO:Skipping file due to cumulative multi-year data.
+2025-02-03 10:13:59,752:INFO:No valid data extracted from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_090323_11.pdf
+2025-02-03 10:13:59,752:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_090622_24.pdf
+2025-02-03 10:14:02,072:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_090622_24.pdf
+2025-02-03 10:14:02,095:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_091017_42.pdf
+2025-02-03 10:14:02,936:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_091017_42.pdf
+2025-02-03 10:14:02,941:WARNING:No data rows parsed from report text.
+2025-02-03 10:14:02,941:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_091123_46.pdf
+2025-02-03 10:14:06,049:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_091123_46.pdf
+2025-02-03 10:14:06,049:INFO:Detected cumulative multi-year data
+2025-02-03 10:14:06,049:INFO:Skipping file due to cumulative multi-year data.
+2025-02-03 10:14:06,049:INFO:No valid data extracted from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_091123_46.pdf
+2025-02-03 10:14:06,049:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_091217_50.pdf
+2025-02-03 10:14:06,719:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_091217_50.pdf
+2025-02-03 10:14:06,739:WARNING:No data rows parsed from report text.
+2025-02-03 10:14:06,739:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_100823_33.pdf
+2025-02-03 10:14:09,326:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_100823_33.pdf
+2025-02-03 10:14:09,326:INFO:Detected cumulative multi-year data
+2025-02-03 10:14:09,326:INFO:Skipping file due to cumulative multi-year data.
+2025-02-03 10:14:09,326:INFO:No valid data extracted from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_100823_33.pdf
+2025-02-03 10:14:09,326:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_101024_41.pdf
+2025-02-03 10:14:11,004:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_101024_41.pdf
+2025-02-03 10:14:11,019:WARNING:No data rows parsed from report text.
+2025-02-03 10:14:11,019:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_101122_46.pdf
+2025-02-03 10:14:14,087:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_101122_46.pdf
+2025-02-03 10:14:14,119:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_110523_20.pdf
+2025-02-03 10:14:16,976:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_110523_20.pdf
+2025-02-03 10:14:16,976:INFO:Detected cumulative multi-year data
+2025-02-03 10:14:16,976:INFO:Skipping file due to cumulative multi-year data.
+2025-02-03 10:14:16,976:INFO:No valid data extracted from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_110523_20.pdf
+2025-02-03 10:14:16,981:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_110724_28.pdf
+2025-02-03 10:14:18,710:ERROR:Error extracting text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_110724_28.pdf: Unexpected EOF
+2025-02-03 10:14:18,710:INFO:No valid data extracted from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_110724_28.pdf
+2025-02-03 10:14:18,710:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_110822_33.pdf
+2025-02-03 10:14:21,523:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_110822_33.pdf
+2025-02-03 10:14:21,561:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_120123_3.pdf
+2025-02-03 10:14:24,356:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_120123_3.pdf
+2025-02-03 10:14:24,356:INFO:Detected cumulative multi-year data
+2025-02-03 10:14:24,356:INFO:Skipping file due to cumulative multi-year data.
+2025-02-03 10:14:24,356:INFO:No valid data extracted from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_120123_3.pdf
+2025-02-03 10:14:24,356:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_120924_37.pdf
+2025-02-03 10:14:25,430:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_120924_37.pdf
+2025-02-03 10:14:25,431:INFO:Detected cumulative multi-year data
+2025-02-03 10:14:25,431:INFO:Skipping file due to cumulative multi-year data.
+2025-02-03 10:14:25,431:INFO:No valid data extracted from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_120924_37.pdf
+2025-02-03 10:14:25,432:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_121023_42.pdf
+2025-02-03 10:14:27,886:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_121023_42.pdf
+2025-02-03 10:14:27,886:INFO:Detected cumulative multi-year data
+2025-02-03 10:14:27,886:INFO:Skipping file due to cumulative multi-year data.
+2025-02-03 10:14:27,886:INFO:No valid data extracted from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_121023_42.pdf
+2025-02-03 10:14:27,886:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_130423_16.pdf
+2025-02-03 10:14:30,023:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_130423_16.pdf
+2025-02-03 10:14:30,023:INFO:Detected cumulative multi-year data
+2025-02-03 10:14:30,023:INFO:Skipping file due to cumulative multi-year data.
+2025-02-03 10:14:30,023:INFO:No valid data extracted from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_130423_16.pdf
+2025-02-03 10:14:30,023:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_130624_24.pdf
+2025-02-03 10:14:31,723:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_130624_24.pdf
+2025-02-03 10:14:31,723:INFO:Detected cumulative multi-year data
+2025-02-03 10:14:31,728:INFO:Skipping file due to cumulative multi-year data.
+2025-02-03 10:14:31,728:INFO:No valid data extracted from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_130624_24.pdf
+2025-02-03 10:14:31,728:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_130723_29.pdf
+2025-02-03 10:14:31,909:ERROR:Error extracting text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_130723_29.pdf: Unexpected EOF
+2025-02-03 10:14:31,909:INFO:No valid data extracted from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_130723_29.pdf
+2025-02-03 10:14:31,909:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_131018_41.pdf
+2025-02-03 10:14:32,623:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_131018_41.pdf
+2025-02-03 10:14:32,628:WARNING:No data rows parsed from report text.
+2025-02-03 10:14:32,628:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_131022_42.pdf
+2025-02-03 10:14:34,447:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_131022_42.pdf
+2025-02-03 10:14:34,477:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_131118_46.pdf
+2025-02-03 10:14:35,323:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_131118_46.pdf
+2025-02-03 10:14:35,339:WARNING:No data rows parsed from report text.
+2025-02-03 10:14:35,339:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_131218_50.pdf
+2025-02-03 10:14:36,044:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_131218_50.pdf
+2025-02-03 10:14:36,051:WARNING:No data rows parsed from report text.
+2025-02-03 10:14:36,051:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_140722_29.pdf
+2025-02-03 10:14:38,112:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_140722_29.pdf
+2025-02-03 10:14:38,150:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_140923_38.pdf
+2025-02-03 10:14:40,172:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_140923_38.pdf
+2025-02-03 10:14:40,172:INFO:Detected cumulative multi-year data
+2025-02-03 10:14:40,172:INFO:Skipping file due to cumulative multi-year data.
+2025-02-03 10:14:40,172:INFO:No valid data extracted from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_140923_38.pdf
+2025-02-03 10:14:40,172:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_141223_51.pdf
+2025-02-03 10:14:42,627:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_141223_51.pdf
+2025-02-03 10:14:42,632:INFO:Detected cumulative multi-year data
+2025-02-03 10:14:42,633:INFO:Skipping file due to cumulative multi-year data.
+2025-02-03 10:14:42,634:INFO:No valid data extracted from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_141223_51.pdf
+2025-02-03 10:14:42,634:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_150623_25.pdf
+2025-02-03 10:14:45,420:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_150623_25.pdf
+2025-02-03 10:14:45,420:INFO:Detected cumulative multi-year data
+2025-02-03 10:14:45,420:INFO:Skipping file due to cumulative multi-year data.
+2025-02-03 10:14:45,420:INFO:No valid data extracted from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_150623_25.pdf
+2025-02-03 10:14:45,420:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_150824_33.pdf
+2025-02-03 10:14:47,208:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_150824_33.pdf
+2025-02-03 10:14:47,208:INFO:Detected cumulative multi-year data
+2025-02-03 10:14:47,208:INFO:Skipping file due to cumulative multi-year data.
+2025-02-03 10:14:47,208:INFO:No valid data extracted from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_150824_33.pdf
+2025-02-03 10:14:47,208:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_150918_37.pdf
+2025-02-03 10:14:47,723:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_150918_37.pdf
+2025-02-03 10:14:47,729:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_150922_38.pdf
+2025-02-03 10:14:50,079:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_150922_38.pdf
+2025-02-03 10:14:50,104:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_151222_51.pdf
+2025-02-03 10:14:51,816:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_151222_51.pdf
+2025-02-03 10:14:51,841:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_160223_8.pdf
+2025-02-03 10:14:53,807:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_160223_8.pdf
+2025-02-03 10:14:53,807:INFO:Detected cumulative multi-year data
+2025-02-03 10:14:53,807:INFO:Skipping file due to cumulative multi-year data.
+2025-02-03 10:14:53,807:INFO:No valid data extracted from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_160223_8.pdf
+2025-02-03 10:14:53,807:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_160323_12.pdf
+2025-02-03 10:14:56,083:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_160323_12.pdf
+2025-02-03 10:14:56,083:INFO:Detected cumulative multi-year data
+2025-02-03 10:14:56,083:INFO:Skipping file due to cumulative multi-year data.
+2025-02-03 10:14:56,083:INFO:No valid data extracted from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_160323_12.pdf
+2025-02-03 10:14:56,083:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_160524_20.pdf
+2025-02-03 10:14:58,485:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_160524_20.pdf
+2025-02-03 10:14:58,485:INFO:Detected cumulative multi-year data
+2025-02-03 10:14:58,485:INFO:Skipping file due to cumulative multi-year data.
+2025-02-03 10:14:58,485:INFO:No valid data extracted from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_160524_20.pdf
+2025-02-03 10:14:58,485:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_160622_25.pdf
+2025-02-03 10:15:02,146:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_160622_25.pdf
+2025-02-03 10:15:02,185:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_161017_43.pdf
+2025-02-03 10:15:02,653:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_161017_43.pdf
+2025-02-03 10:15:02,658:WARNING:No data rows parsed from report text.
+2025-02-03 10:15:02,658:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_161123_47.pdf
+2025-02-03 10:15:05,260:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_161123_47.pdf
+2025-02-03 10:15:05,260:INFO:Detected cumulative multi-year data
+2025-02-03 10:15:05,260:INFO:Skipping file due to cumulative multi-year data.
+2025-02-03 10:15:05,260:INFO:No valid data extracted from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_161123_47.pdf
+2025-02-03 10:15:05,260:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_170823_34.pdf
+2025-02-03 10:15:07,981:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_170823_34.pdf
+2025-02-03 10:15:07,983:INFO:Detected cumulative multi-year data
+2025-02-03 10:15:07,983:INFO:Skipping file due to cumulative multi-year data.
+2025-02-03 10:15:07,983:INFO:No valid data extracted from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_170823_34.pdf
+2025-02-03 10:15:07,983:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_170921_38.pdf
+2025-02-03 10:15:10,260:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_170921_38.pdf
+2025-02-03 10:15:10,280:WARNING:No data rows parsed from report text.
+2025-02-03 10:15:10,280:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_171024_42.pdf
+2025-02-03 10:15:11,062:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_171024_42.pdf
+2025-02-03 10:15:11,080:WARNING:No data rows parsed from report text.
+2025-02-03 10:15:11,080:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_171122_47.pdf
+2025-02-03 10:15:13,195:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_171122_47.pdf
+2025-02-03 10:15:13,225:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_180424_16.pdf
+2025-02-03 10:15:14,797:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_180424_16.pdf
+2025-02-03 10:15:14,797:INFO:Detected cumulative multi-year data
+2025-02-03 10:15:14,797:INFO:Skipping file due to cumulative multi-year data.
+2025-02-03 10:15:14,797:INFO:No valid data extracted from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_180424_16.pdf
+2025-02-03 10:15:14,797:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_180523_21.pdf
+2025-02-03 10:15:16,743:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_180523_21.pdf
+2025-02-03 10:15:16,743:INFO:Detected cumulative multi-year data
+2025-02-03 10:15:16,743:INFO:Skipping file due to cumulative multi-year data.
+2025-02-03 10:15:16,743:INFO:No valid data extracted from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_180523_21.pdf
+2025-02-03 10:15:16,743:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_180822_34.pdf
+2025-02-03 10:15:18,461:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_180822_34.pdf
+2025-02-03 10:15:18,496:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_190123_4.pdf
+2025-02-03 10:15:20,354:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_190123_4.pdf
+2025-02-03 10:15:20,354:INFO:Detected cumulative multi-year data
+2025-02-03 10:15:20,354:INFO:Skipping file due to cumulative multi-year data.
+2025-02-03 10:15:20,354:INFO:No valid data extracted from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_190123_4.pdf
+2025-02-03 10:15:20,354:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_190222_8.pdf
+2025-02-03 10:15:21,735:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_190222_8.pdf
+2025-02-03 10:15:21,745:WARNING:No data rows parsed from report text.
+2025-02-03 10:15:21,745:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_190522_21.pdf
+2025-02-03 10:15:23,610:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_190522_21.pdf
+2025-02-03 10:15:23,625:WARNING:No data rows parsed from report text.
+2025-02-03 10:15:23,625:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_190924_38.pdf
+2025-02-03 10:15:24,463:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_190924_38.pdf
+2025-02-03 10:15:24,463:INFO:Detected cumulative multi-year data
+2025-02-03 10:15:24,463:INFO:Skipping file due to cumulative multi-year data.
+2025-02-03 10:15:24,463:INFO:No valid data extracted from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_190924_38.pdf
+2025-02-03 10:15:24,463:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_191017_43.pdf
+2025-02-03 10:15:25,340:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_191017_43.pdf
+2025-02-03 10:15:25,345:WARNING:No data rows parsed from report text.
+2025-02-03 10:15:25,345:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_191023_43.pdf
+2025-02-03 10:15:27,176:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_191023_43.pdf
+2025-02-03 10:15:27,176:INFO:Detected cumulative multi-year data
+2025-02-03 10:15:27,176:INFO:Skipping file due to cumulative multi-year data.
+2025-02-03 10:15:27,176:INFO:No valid data extracted from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_191023_43.pdf
+2025-02-03 10:15:27,176:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_191117_48.pdf
+2025-02-03 10:15:28,076:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_191117_48.pdf
+2025-02-03 10:15:28,096:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_200423_17.pdf
+2025-02-03 10:15:30,089:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_200423_17.pdf
+2025-02-03 10:15:30,089:INFO:Detected cumulative multi-year data
+2025-02-03 10:15:30,089:INFO:Skipping file due to cumulative multi-year data.
+2025-02-03 10:15:30,089:INFO:No valid data extracted from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_200423_17.pdf
+2025-02-03 10:15:30,089:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_200723_30.pdf
+2025-02-03 10:15:30,209:ERROR:Error extracting text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_200723_30.pdf: Unexpected EOF
+2025-02-03 10:15:30,209:INFO:No valid data extracted from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_200723_30.pdf
+2025-02-03 10:15:30,209:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_200821_34.pdf
+2025-02-03 10:15:31,663:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_200821_34.pdf
+2025-02-03 10:15:31,678:WARNING:No data rows parsed from report text.
+2025-02-03 10:15:31,678:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_201022_43.pdf
+2025-02-03 10:15:32,129:ERROR:Error extracting text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_201022_43.pdf: Unexpected EOF
+2025-02-03 10:15:32,129:INFO:No valid data extracted from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_201022_43.pdf
+2025-02-03 10:15:32,129:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_201121_47.pdf
+2025-02-03 10:15:33,767:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_201121_47.pdf
+2025-02-03 10:15:33,777:WARNING:No data rows parsed from report text.
+2025-02-03 10:15:33,777:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_210324_12.pdf
+2025-02-03 10:15:35,265:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_210324_12.pdf
+2025-02-03 10:15:35,270:INFO:Detected cumulative multi-year data
+2025-02-03 10:15:35,270:INFO:Skipping file due to cumulative multi-year data.
+2025-02-03 10:15:35,270:INFO:No valid data extracted from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_210324_12.pdf
+2025-02-03 10:15:35,270:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_210521_21.pdf
+2025-02-03 10:15:36,803:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_210521_21.pdf
+2025-02-03 10:15:36,818:WARNING:No data rows parsed from report text.
+2025-02-03 10:15:36,818:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_210722_30.pdf
+2025-02-03 10:15:38,381:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_210722_30.pdf
+2025-02-03 10:15:38,411:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_210923_39.pdf
+2025-02-03 10:15:40,584:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_210923_39.pdf
+2025-02-03 10:15:40,584:INFO:Detected cumulative multi-year data
+2025-02-03 10:15:40,584:INFO:Skipping file due to cumulative multi-year data.
+2025-02-03 10:15:40,584:INFO:No valid data extracted from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_210923_39.pdf
+2025-02-03 10:15:40,584:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_211223_52.pdf
+2025-02-03 10:15:43,041:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_211223_52.pdf
+2025-02-03 10:15:43,041:INFO:Detected cumulative multi-year data
+2025-02-03 10:15:43,041:INFO:Skipping file due to cumulative multi-year data.
+2025-02-03 10:15:43,041:INFO:No valid data extracted from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_211223_52.pdf
+2025-02-03 10:15:43,041:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_220122_4.pdf
+2025-02-03 10:15:44,423:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_220122_4.pdf
+2025-02-03 10:15:44,433:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_220224_8.pdf
+2025-02-03 10:15:46,053:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_220224_8.pdf
+2025-02-03 10:15:46,053:INFO:Detected cumulative multi-year data
+2025-02-03 10:15:46,053:INFO:Skipping file due to cumulative multi-year data.
+2025-02-03 10:15:46,053:INFO:No valid data extracted from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_220224_8.pdf
+2025-02-03 10:15:46,053:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_220623_26.pdf
+2025-02-03 10:15:48,250:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_220623_26.pdf
+2025-02-03 10:15:48,250:INFO:Detected cumulative multi-year data
+2025-02-03 10:15:48,250:INFO:Skipping file due to cumulative multi-year data.
+2025-02-03 10:15:48,250:INFO:No valid data extracted from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_220623_26.pdf
+2025-02-03 10:15:48,250:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_220824_34.pdf
+2025-02-03 10:15:50,220:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_220824_34.pdf
+2025-02-03 10:15:50,220:INFO:Detected cumulative multi-year data
+2025-02-03 10:15:50,220:INFO:Skipping file due to cumulative multi-year data.
+2025-02-03 10:15:50,220:INFO:No valid data extracted from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_220824_34.pdf
+2025-02-03 10:15:50,220:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_220922_39.pdf
+2025-02-03 10:15:51,762:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_220922_39.pdf
+2025-02-03 10:15:51,792:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_221021_43.pdf
+2025-02-03 10:15:53,112:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_221021_43.pdf
+2025-02-03 10:15:53,127:WARNING:No data rows parsed from report text.
+2025-02-03 10:15:53,127:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_221217_52.pdf
+2025-02-03 10:15:53,665:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_221217_52.pdf
+2025-02-03 10:15:53,670:WARNING:No data rows parsed from report text.
+2025-02-03 10:15:53,670:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_221222_52.pdf
+2025-02-03 10:15:55,854:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_221222_52.pdf
+2025-02-03 10:15:55,887:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_230223_9.pdf
+2025-02-03 10:15:57,504:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_230223_9.pdf
+2025-02-03 10:15:57,504:INFO:Detected cumulative multi-year data
+2025-02-03 10:15:57,504:INFO:Skipping file due to cumulative multi-year data.
+2025-02-03 10:15:57,504:INFO:No valid data extracted from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_230223_9.pdf
+2025-02-03 10:15:57,504:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_230323_13.pdf
+2025-02-03 10:16:00,109:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_230323_13.pdf
+2025-02-03 10:16:00,109:INFO:Detected cumulative multi-year data
+2025-02-03 10:16:00,109:INFO:Skipping file due to cumulative multi-year data.
+2025-02-03 10:16:00,109:INFO:No valid data extracted from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_230323_13.pdf
+2025-02-03 10:16:00,109:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_230422_17.pdf
+2025-02-03 10:16:01,972:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_230422_17.pdf
+2025-02-03 10:16:01,982:WARNING:No data rows parsed from report text.
+2025-02-03 10:16:01,982:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_230622_26.pdf
+2025-02-03 10:16:04,235:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_230622_26.pdf
+2025-02-03 10:16:04,276:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_230721_30.pdf
+2025-02-03 10:16:05,709:ERROR:Error extracting text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_230721_30.pdf: No /Root object! - Is this really a PDF?
+2025-02-03 10:16:05,709:INFO:No valid data extracted from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_230721_30.pdf
+2025-02-03 10:16:05,709:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_231117_48.pdf
+2025-02-03 10:16:06,688:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_231117_48.pdf
+2025-02-03 10:16:06,693:WARNING:No data rows parsed from report text.
+2025-02-03 10:16:06,693:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_231123_48.pdf
+2025-02-03 10:16:08,833:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_231123_48.pdf
+2025-02-03 10:16:08,834:INFO:Detected cumulative multi-year data
+2025-02-03 10:16:08,834:INFO:Skipping file due to cumulative multi-year data.
+2025-02-03 10:16:08,834:INFO:No valid data extracted from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_231123_48.pdf
+2025-02-03 10:16:08,834:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_240823_35.pdf
+2025-02-03 10:16:11,685:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_240823_35.pdf
+2025-02-03 10:16:11,685:INFO:Detected cumulative multi-year data
+2025-02-03 10:16:11,685:INFO:Skipping file due to cumulative multi-year data.
+2025-02-03 10:16:11,685:INFO:No valid data extracted from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_240823_35.pdf
+2025-02-03 10:16:11,685:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_241024_43.pdf
+2025-02-03 10:16:11,800:ERROR:Error extracting text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_241024_43.pdf: Unexpected EOF
+2025-02-03 10:16:11,800:INFO:No valid data extracted from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_241024_43.pdf
+2025-02-03 10:16:11,800:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_241122_48.pdf
+2025-02-03 10:16:15,089:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_241122_48.pdf
+2025-02-03 10:16:15,167:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_250118_4.pdf
+2025-02-03 10:16:16,271:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_250118_4.pdf
+2025-02-03 10:16:16,281:WARNING:No data rows parsed from report text.
+2025-02-03 10:16:16,281:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_250124_4.pdf
+2025-02-03 10:16:18,368:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_250124_4.pdf
+2025-02-03 10:16:18,368:INFO:Detected cumulative multi-year data
+2025-02-03 10:16:18,368:INFO:Skipping file due to cumulative multi-year data.
+2025-02-03 10:16:18,368:INFO:No valid data extracted from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_250124_4.pdf
+2025-02-03 10:16:18,368:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_250218_9.pdf
+2025-02-03 10:16:19,796:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_250218_9.pdf
+2025-02-03 10:16:19,818:WARNING:No data rows parsed from report text.
+2025-02-03 10:16:19,818:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_250523_22.pdf
+2025-02-03 10:16:21,908:ERROR:Error extracting text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_250523_22.pdf: Unexpected EOF
+2025-02-03 10:16:21,908:INFO:No valid data extracted from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_250523_22.pdf
+2025-02-03 10:16:21,908:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_250621_26.pdf
+2025-02-03 10:16:29,928:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_250621_26.pdf
+2025-02-03 10:16:29,943:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_250822_35.pdf
+2025-02-03 10:16:33,687:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_250822_35.pdf
+2025-02-03 10:16:33,722:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_251221_52.pdf
+2025-02-03 10:16:36,254:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_251221_52.pdf
+2025-02-03 10:16:36,264:WARNING:No data rows parsed from report text.
+2025-02-03 10:16:36,264:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_260123_5.pdf
+2025-02-03 10:16:38,009:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_260123_5.pdf
+2025-02-03 10:16:38,009:INFO:Detected cumulative multi-year data
+2025-02-03 10:16:38,009:INFO:Skipping file due to cumulative multi-year data.
+2025-02-03 10:16:38,009:INFO:No valid data extracted from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_260123_5.pdf
+2025-02-03 10:16:38,009:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_260322_13.pdf
+2025-02-03 10:16:38,024:ERROR:Error extracting text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_260322_13.pdf: No /Root object! - Is this really a PDF?
+2025-02-03 10:16:38,024:INFO:No valid data extracted from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_260322_13.pdf
+2025-02-03 10:16:38,029:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_260924_39.pdf
+2025-02-03 10:16:38,901:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_260924_39.pdf
+2025-02-03 10:16:38,901:INFO:Detected cumulative multi-year data
+2025-02-03 10:16:38,901:INFO:Skipping file due to cumulative multi-year data.
+2025-02-03 10:16:38,901:INFO:No valid data extracted from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_260924_39.pdf
+2025-02-03 10:16:38,901:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_261023_44.pdf
+2025-02-03 10:16:41,094:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_261023_44.pdf
+2025-02-03 10:16:41,094:INFO:Detected cumulative multi-year data
+2025-02-03 10:16:41,094:INFO:Skipping file due to cumulative multi-year data.
+2025-02-03 10:16:41,094:INFO:No valid data extracted from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_261023_44.pdf
+2025-02-03 10:16:41,094:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_270423_18.pdf
+2025-02-03 10:16:43,192:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_270423_18.pdf
+2025-02-03 10:16:43,192:INFO:Detected cumulative multi-year data
+2025-02-03 10:16:43,192:INFO:Skipping file due to cumulative multi-year data.
+2025-02-03 10:16:43,192:INFO:No valid data extracted from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_270423_18.pdf
+2025-02-03 10:16:43,192:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_270522_22.pdf
+2025-02-03 10:16:44,921:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_270522_22.pdf
+2025-02-03 10:16:44,947:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_270723_31.pdf
+2025-02-03 10:16:46,934:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_270723_31.pdf
+2025-02-03 10:16:46,934:INFO:Detected cumulative multi-year data
+2025-02-03 10:16:46,934:INFO:Skipping file due to cumulative multi-year data.
+2025-02-03 10:16:46,934:INFO:No valid data extracted from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_270723_31.pdf
+2025-02-03 10:16:46,934:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_280722_31.pdf
+2025-02-03 10:16:47,084:ERROR:Error extracting text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_280722_31.pdf: Unexpected EOF
+2025-02-03 10:16:47,084:INFO:No valid data extracted from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_280722_31.pdf
+2025-02-03 10:16:47,084:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_280923_40.pdf
+2025-02-03 10:16:48,755:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_280923_40.pdf
+2025-02-03 10:16:48,755:INFO:Detected cumulative multi-year data
+2025-02-03 10:16:48,755:INFO:Skipping file due to cumulative multi-year data.
+2025-02-03 10:16:48,755:INFO:No valid data extracted from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_280923_40.pdf
+2025-02-03 10:16:48,755:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_290623_27.pdf
+2025-02-03 10:16:50,727:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_290623_27.pdf
+2025-02-03 10:16:50,727:INFO:Detected cumulative multi-year data
+2025-02-03 10:16:50,727:INFO:Skipping file due to cumulative multi-year data.
+2025-02-03 10:16:50,727:INFO:No valid data extracted from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_290623_27.pdf
+2025-02-03 10:16:50,727:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_290824_35.pdf
+2025-02-03 10:16:51,939:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_290824_35.pdf
+2025-02-03 10:16:51,939:INFO:Detected cumulative multi-year data
+2025-02-03 10:16:51,939:INFO:Skipping file due to cumulative multi-year data.
+2025-02-03 10:16:51,939:INFO:No valid data extracted from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_290824_35.pdf
+2025-02-03 10:16:51,939:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_290922_40.pdf
+2025-02-03 10:16:54,046:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_290922_40.pdf
+2025-02-03 10:16:54,076:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_291222_53.pdf
+2025-02-03 10:16:55,408:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_291222_53.pdf
+2025-02-03 10:16:55,408:INFO:Detected cumulative multi-year data
+2025-02-03 10:16:55,408:INFO:Skipping file due to cumulative multi-year data.
+2025-02-03 10:16:55,408:INFO:No valid data extracted from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_291222_53.pdf
+2025-02-03 10:16:55,413:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_300323_14.pdf
+2025-02-03 10:16:57,327:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_300323_14.pdf
+2025-02-03 10:16:57,327:INFO:Detected cumulative multi-year data
+2025-02-03 10:16:57,327:INFO:Skipping file due to cumulative multi-year data.
+2025-02-03 10:16:57,327:INFO:No valid data extracted from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_300323_14.pdf
+2025-02-03 10:16:57,327:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_300622_27.pdf
+2025-02-03 10:16:59,420:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_300622_27.pdf
+2025-02-03 10:16:59,457:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_300919_40.pdf
+2025-02-03 10:17:00,334:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_300919_40.pdf
+2025-02-03 10:17:00,348:WARNING:No data rows parsed from report text.
+2025-02-03 10:17:00,349:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_301119_48.pdf
+2025-02-03 10:17:01,202:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_301119_48.pdf
+2025-02-03 10:17:01,233:WARNING:No data rows parsed from report text.
+2025-02-03 10:17:01,233:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_301123_49.pdf
+2025-02-03 10:17:03,326:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_301123_49.pdf
+2025-02-03 10:17:03,326:INFO:Detected cumulative multi-year data
+2025-02-03 10:17:03,326:INFO:Skipping file due to cumulative multi-year data.
+2025-02-03 10:17:03,326:INFO:No valid data extracted from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_301123_49.pdf
+2025-02-03 10:17:03,326:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_310119_5.pdf
+2025-02-03 10:17:03,862:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_310119_5.pdf
+2025-02-03 10:17:03,870:WARNING:No data rows parsed from report text.
+2025-02-03 10:17:03,870:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_310819_35.pdf
+2025-02-03 10:17:04,582:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_310819_35.pdf
+2025-02-03 10:17:04,587:WARNING:No data rows parsed from report text.
+2025-02-03 10:17:04,587:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_310823_36.pdf
+2025-02-03 10:17:06,477:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_310823_36.pdf
+2025-02-03 10:17:06,477:INFO:Detected cumulative multi-year data
+2025-02-03 10:17:06,477:INFO:Skipping file due to cumulative multi-year data.
+2025-02-03 10:17:06,477:INFO:No valid data extracted from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_310823_36.pdf
+2025-02-03 10:17:06,477:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_311019_44.pdf
+2025-02-03 10:17:07,269:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_311019_44.pdf
+2025-02-03 10:17:07,284:WARNING:No data rows parsed from report text.
+2025-02-03 10:17:07,284:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_311219_53.pdf
+2025-02-03 10:17:08,319:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_311219_53.pdf
+2025-02-03 10:17:08,329:WARNING:No data rows parsed from report text.
+2025-02-03 10:17:08,424:INFO:CSV successfully written to parsed_report.csv
+2025-02-03 10:37:00,828:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_010623_23.pdf
+2025-02-03 10:37:03,207:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_010623_23.pdf
+2025-02-03 10:37:03,240:INFO:Highlighted data section parsed successfully.
+2025-02-03 10:37:03,240:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_010922_36.pdf
+2025-02-03 10:37:04,982:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_010922_36.pdf
+2025-02-03 10:37:05,006:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_011124_44.pdf
+2025-02-03 10:37:05,361:ERROR:Error extracting text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_011124_44.pdf: Unexpected EOF
+2025-02-03 10:37:05,361:INFO:No valid data extracted from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_011124_44.pdf
+2025-02-03 10:37:05,361:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_011222_49.pdf
+2025-02-03 10:37:07,250:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_011222_49.pdf
+2025-02-03 10:37:07,273:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_020223_6.pdf
+2025-02-03 10:37:08,806:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_020223_6.pdf
+2025-02-03 10:37:08,806:INFO:Highlighted data section parsed successfully.
+2025-02-03 10:37:08,806:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_020323_10.pdf
+2025-02-03 10:37:11,639:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_020323_10.pdf
+2025-02-03 10:37:11,644:INFO:Highlighted data section parsed successfully.
+2025-02-03 10:37:11,644:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_020622_23.pdf
+2025-02-03 10:37:14,240:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_020622_23.pdf
+2025-02-03 10:37:14,266:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_021117_45.pdf
+2025-02-03 10:37:15,028:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_021117_45.pdf
+2025-02-03 10:37:15,128:WARNING:No valid data rows parsed from the report.
+2025-02-03 10:37:15,133:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_021123_45.pdf
+2025-02-03 10:37:16,116:ERROR:Error extracting text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_021123_45.pdf: Unexpected EOF
+2025-02-03 10:37:16,116:INFO:No valid data extracted from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_021123_45.pdf
+2025-02-03 10:37:16,116:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_030823_32.pdf
+2025-02-03 10:37:18,016:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_030823_32.pdf
+2025-02-03 10:37:18,016:INFO:Highlighted data section parsed successfully.
+2025-02-03 10:37:18,016:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_031024_40.pdf
+2025-02-03 10:37:18,360:ERROR:Error extracting text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_031024_40.pdf: Unexpected EOF
+2025-02-03 10:37:18,365:INFO:No valid data extracted from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_031024_40.pdf
+2025-02-03 10:37:18,365:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_031122_45.pdf
+2025-02-03 10:37:20,227:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_031122_45.pdf
+2025-02-03 10:37:20,250:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_040523_19.pdf
+2025-02-03 10:37:22,337:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_040523_19.pdf
+2025-02-03 10:37:22,339:INFO:Highlighted data section parsed successfully.
+2025-02-03 10:37:22,339:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_040822_32.pdf
+2025-02-03 10:37:24,082:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_040822_32.pdf
+2025-02-03 10:37:24,099:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_050123_2.pdf
+2025-02-03 10:37:25,744:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_050123_2.pdf
+2025-02-03 10:37:25,744:INFO:Highlighted data section parsed successfully.
+2025-02-03 10:37:25,744:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_050924_36.pdf
+2025-02-03 10:37:26,760:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_050924_36.pdf
+2025-02-03 10:37:26,772:WARNING:No valid data rows parsed from the report.
+2025-02-03 10:37:26,772:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_051023_41.pdf
+2025-02-03 10:37:28,760:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_051023_41.pdf
+2025-02-03 10:37:28,760:INFO:Highlighted data section parsed successfully.
+2025-02-03 10:37:28,760:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_060423_15.pdf
+2025-02-03 10:37:31,422:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_060423_15.pdf
+2025-02-03 10:37:31,422:INFO:Highlighted data section parsed successfully.
+2025-02-03 10:37:31,422:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_060723_28.pdf
+2025-02-03 10:37:33,615:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_060723_28.pdf
+2025-02-03 10:37:33,620:INFO:Highlighted data section parsed successfully.
+2025-02-03 10:37:33,621:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_061022_41.pdf
+2025-02-03 10:37:35,425:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_061022_41.pdf
+2025-02-03 10:37:35,438:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_070722_28.pdf
+2025-02-03 10:37:37,709:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_070722_28.pdf
+2025-02-03 10:37:37,726:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_070923_37.pdf
+2025-02-03 10:37:39,626:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_070923_37.pdf
+2025-02-03 10:37:39,631:INFO:Highlighted data section parsed successfully.
+2025-02-03 10:37:39,631:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_071223_50.pdf
+2025-02-03 10:37:41,821:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_071223_50.pdf
+2025-02-03 10:37:41,821:INFO:Highlighted data section parsed successfully.
+2025-02-03 10:37:41,821:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_080623_24.pdf
+2025-02-03 10:37:41,948:ERROR:Error extracting text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_080623_24.pdf: Unexpected EOF
+2025-02-03 10:37:41,948:INFO:No valid data extracted from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_080623_24.pdf
+2025-02-03 10:37:41,948:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_080824_32.pdf
+2025-02-03 10:37:43,781:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_080824_32.pdf
+2025-02-03 10:37:43,793:WARNING:No valid data rows parsed from the report.
+2025-02-03 10:37:43,793:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_080922_37.pdf
+2025-02-03 10:37:45,590:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_080922_37.pdf
+2025-02-03 10:37:45,605:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_081222_50.pdf
+2025-02-03 10:37:47,926:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_081222_50.pdf
+2025-02-03 10:37:47,943:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_090223_7.pdf
+2025-02-03 10:37:49,738:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_090223_7.pdf
+2025-02-03 10:37:49,738:INFO:Highlighted data section parsed successfully.
+2025-02-03 10:37:49,738:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_090323_11.pdf
+2025-02-03 10:37:51,664:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_090323_11.pdf
+2025-02-03 10:37:51,671:INFO:Highlighted data section parsed successfully.
+2025-02-03 10:37:51,671:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_090622_24.pdf
+2025-02-03 10:37:53,975:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_090622_24.pdf
+2025-02-03 10:37:53,987:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_091017_42.pdf
+2025-02-03 10:37:54,264:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_091017_42.pdf
+2025-02-03 10:37:54,270:WARNING:No valid data rows parsed from the report.
+2025-02-03 10:37:54,270:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_091123_46.pdf
+2025-02-03 10:37:56,621:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_091123_46.pdf
+2025-02-03 10:37:56,621:INFO:Highlighted data section parsed successfully.
+2025-02-03 10:37:56,621:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_091217_50.pdf
+2025-02-03 10:37:57,392:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_091217_50.pdf
+2025-02-03 10:37:57,441:WARNING:No valid data rows parsed from the report.
+2025-02-03 10:37:57,446:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_100823_33.pdf
+2025-02-03 10:37:59,637:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_100823_33.pdf
+2025-02-03 10:37:59,637:INFO:Highlighted data section parsed successfully.
+2025-02-03 10:37:59,637:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_101024_41.pdf
+2025-02-03 10:38:00,237:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_101024_41.pdf
+2025-02-03 10:38:00,242:WARNING:No valid data rows parsed from the report.
+2025-02-03 10:38:00,242:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_101122_46.pdf
+2025-02-03 10:38:02,159:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_101122_46.pdf
+2025-02-03 10:38:02,170:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_110523_20.pdf
+2025-02-03 10:38:04,242:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_110523_20.pdf
+2025-02-03 10:38:04,247:INFO:Highlighted data section parsed successfully.
+2025-02-03 10:38:04,247:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_110724_28.pdf
+2025-02-03 10:38:04,859:ERROR:Error extracting text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_110724_28.pdf: Unexpected EOF
+2025-02-03 10:38:04,859:INFO:No valid data extracted from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_110724_28.pdf
+2025-02-03 10:38:04,864:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_110822_33.pdf
+2025-02-03 10:38:06,420:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_110822_33.pdf
+2025-02-03 10:38:06,430:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_120123_3.pdf
+2025-02-03 10:38:08,130:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_120123_3.pdf
+2025-02-03 10:38:08,147:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_120924_37.pdf
+2025-02-03 10:38:09,175:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_120924_37.pdf
+2025-02-03 10:38:09,192:WARNING:No valid data rows parsed from the report.
+2025-02-03 10:38:09,192:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_121023_42.pdf
+2025-02-03 10:38:11,480:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_121023_42.pdf
+2025-02-03 10:38:11,480:INFO:Highlighted data section parsed successfully.
+2025-02-03 10:38:11,480:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_130423_16.pdf
+2025-02-03 10:38:13,553:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_130423_16.pdf
+2025-02-03 10:38:13,558:INFO:Highlighted data section parsed successfully.
+2025-02-03 10:38:13,558:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_130624_24.pdf
+2025-02-03 10:38:15,259:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_130624_24.pdf
+2025-02-03 10:38:15,269:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_130723_29.pdf
+2025-02-03 10:38:15,342:ERROR:Error extracting text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_130723_29.pdf: Unexpected EOF
+2025-02-03 10:38:15,342:INFO:No valid data extracted from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_130723_29.pdf
+2025-02-03 10:38:15,342:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_131018_41.pdf
+2025-02-03 10:38:15,875:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_131018_41.pdf
+2025-02-03 10:38:15,880:WARNING:No valid data rows parsed from the report.
+2025-02-03 10:38:15,887:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_131022_42.pdf
+2025-02-03 10:38:17,630:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_131022_42.pdf
+2025-02-03 10:38:17,646:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_131118_46.pdf
+2025-02-03 10:38:18,403:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_131118_46.pdf
+2025-02-03 10:38:18,408:WARNING:No valid data rows parsed from the report.
+2025-02-03 10:38:18,413:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_131218_50.pdf
+2025-02-03 10:38:19,024:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_131218_50.pdf
+2025-02-03 10:38:19,029:WARNING:No valid data rows parsed from the report.
+2025-02-03 10:38:19,029:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_140722_29.pdf
+2025-02-03 10:38:21,013:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_140722_29.pdf
+2025-02-03 10:38:21,029:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_140923_38.pdf
+2025-02-03 10:38:23,202:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_140923_38.pdf
+2025-02-03 10:38:23,207:INFO:Highlighted data section parsed successfully.
+2025-02-03 10:38:23,207:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_141223_51.pdf
+2025-02-03 10:38:25,552:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_141223_51.pdf
+2025-02-03 10:38:25,555:INFO:Highlighted data section parsed successfully.
+2025-02-03 10:38:25,555:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_150623_25.pdf
+2025-02-03 10:38:27,646:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_150623_25.pdf
+2025-02-03 10:38:27,646:INFO:Highlighted data section parsed successfully.
+2025-02-03 10:38:27,646:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_150824_33.pdf
+2025-02-03 10:38:29,463:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_150824_33.pdf
+2025-02-03 10:38:29,474:WARNING:No valid data rows parsed from the report.
+2025-02-03 10:38:29,474:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_150918_37.pdf
+2025-02-03 10:38:29,969:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_150918_37.pdf
+2025-02-03 10:38:29,974:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_150922_38.pdf
+2025-02-03 10:38:31,574:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_150922_38.pdf
+2025-02-03 10:38:31,591:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_151222_51.pdf
+2025-02-03 10:38:33,495:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_151222_51.pdf
+2025-02-03 10:38:33,507:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_160223_8.pdf
+2025-02-03 10:38:35,240:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_160223_8.pdf
+2025-02-03 10:38:35,240:INFO:Highlighted data section parsed successfully.
+2025-02-03 10:38:35,240:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_160323_12.pdf
+2025-02-03 10:38:37,236:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_160323_12.pdf
+2025-02-03 10:38:37,241:INFO:Highlighted data section parsed successfully.
+2025-02-03 10:38:37,241:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_160524_20.pdf
+2025-02-03 10:38:39,140:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_160524_20.pdf
+2025-02-03 10:38:39,152:WARNING:No valid data rows parsed from the report.
+2025-02-03 10:38:39,152:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_160622_25.pdf
+2025-02-03 10:38:41,012:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_160622_25.pdf
+2025-02-03 10:38:41,028:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_161017_43.pdf
+2025-02-03 10:38:41,351:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_161017_43.pdf
+2025-02-03 10:38:41,351:WARNING:No valid data rows parsed from the report.
+2025-02-03 10:38:41,356:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_161123_47.pdf
+2025-02-03 10:38:43,685:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_161123_47.pdf
+2025-02-03 10:38:43,688:INFO:Highlighted data section parsed successfully.
+2025-02-03 10:38:43,688:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_170823_34.pdf
+2025-02-03 10:38:45,790:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_170823_34.pdf
+2025-02-03 10:38:45,795:INFO:Highlighted data section parsed successfully.
+2025-02-03 10:38:45,795:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_170921_38.pdf
+2025-02-03 10:38:47,238:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_170921_38.pdf
+2025-02-03 10:38:47,243:WARNING:No valid data rows parsed from the report.
+2025-02-03 10:38:47,243:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_171024_42.pdf
+2025-02-03 10:38:47,802:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_171024_42.pdf
+2025-02-03 10:38:47,812:WARNING:No valid data rows parsed from the report.
+2025-02-03 10:38:47,812:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_171122_47.pdf
+2025-02-03 10:38:49,690:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_171122_47.pdf
+2025-02-03 10:38:49,701:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_180424_16.pdf
+2025-02-03 10:38:51,252:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_180424_16.pdf
+2025-02-03 10:38:51,262:WARNING:No valid data rows parsed from the report.
+2025-02-03 10:38:51,262:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_180523_21.pdf
+2025-02-03 10:38:53,406:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_180523_21.pdf
+2025-02-03 10:38:53,406:INFO:Highlighted data section parsed successfully.
+2025-02-03 10:38:53,406:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_180822_34.pdf
+2025-02-03 10:38:55,318:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_180822_34.pdf
+2025-02-03 10:38:55,334:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_190123_4.pdf
+2025-02-03 10:38:57,135:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_190123_4.pdf
+2025-02-03 10:38:57,135:INFO:Highlighted data section parsed successfully.
+2025-02-03 10:38:57,135:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_190222_8.pdf
+2025-02-03 10:38:58,551:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_190222_8.pdf
+2025-02-03 10:38:58,556:WARNING:No valid data rows parsed from the report.
+2025-02-03 10:38:58,556:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_190522_21.pdf
+2025-02-03 10:39:00,590:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_190522_21.pdf
+2025-02-03 10:39:00,595:WARNING:No valid data rows parsed from the report.
+2025-02-03 10:39:00,595:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_190924_38.pdf
+2025-02-03 10:39:01,444:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_190924_38.pdf
+2025-02-03 10:39:01,456:WARNING:No valid data rows parsed from the report.
+2025-02-03 10:39:01,456:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_191017_43.pdf
+2025-02-03 10:39:02,440:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_191017_43.pdf
+2025-02-03 10:39:02,443:WARNING:No valid data rows parsed from the report.
+2025-02-03 10:39:02,444:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_191023_43.pdf
+2025-02-03 10:39:04,334:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_191023_43.pdf
+2025-02-03 10:39:04,334:INFO:Highlighted data section parsed successfully.
+2025-02-03 10:39:04,334:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_191117_48.pdf
+2025-02-03 10:39:05,101:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_191117_48.pdf
+2025-02-03 10:39:05,106:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_200423_17.pdf
+2025-02-03 10:39:07,283:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_200423_17.pdf
+2025-02-03 10:39:07,288:INFO:Highlighted data section parsed successfully.
+2025-02-03 10:39:07,288:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_200723_30.pdf
+2025-02-03 10:39:07,317:ERROR:Error extracting text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_200723_30.pdf: Unexpected EOF
+2025-02-03 10:39:07,317:INFO:No valid data extracted from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_200723_30.pdf
+2025-02-03 10:39:07,317:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_200821_34.pdf
+2025-02-03 10:39:08,834:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_200821_34.pdf
+2025-02-03 10:39:08,839:WARNING:No valid data rows parsed from the report.
+2025-02-03 10:39:08,839:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_201022_43.pdf
+2025-02-03 10:39:09,151:ERROR:Error extracting text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_201022_43.pdf: Unexpected EOF
+2025-02-03 10:39:09,151:INFO:No valid data extracted from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_201022_43.pdf
+2025-02-03 10:39:09,151:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_201121_47.pdf
+2025-02-03 10:39:10,977:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_201121_47.pdf
+2025-02-03 10:39:10,983:WARNING:No valid data rows parsed from the report.
+2025-02-03 10:39:10,983:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_210324_12.pdf
+2025-02-03 10:39:12,444:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_210324_12.pdf
+2025-02-03 10:39:12,455:WARNING:No valid data rows parsed from the report.
+2025-02-03 10:39:12,455:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_210521_21.pdf
+2025-02-03 10:39:14,067:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_210521_21.pdf
+2025-02-03 10:39:14,072:WARNING:No valid data rows parsed from the report.
+2025-02-03 10:39:14,072:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_210722_30.pdf
+2025-02-03 10:39:15,707:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_210722_30.pdf
+2025-02-03 10:39:15,722:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_210923_39.pdf
+2025-02-03 10:39:17,655:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_210923_39.pdf
+2025-02-03 10:39:17,655:INFO:Highlighted data section parsed successfully.
+2025-02-03 10:39:17,655:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_211223_52.pdf
+2025-02-03 10:39:19,626:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_211223_52.pdf
+2025-02-03 10:39:19,634:INFO:Highlighted data section parsed successfully.
+2025-02-03 10:39:19,634:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_220122_4.pdf
+2025-02-03 10:39:21,139:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_220122_4.pdf
+2025-02-03 10:39:21,144:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_220224_8.pdf
+2025-02-03 10:39:22,779:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_220224_8.pdf
+2025-02-03 10:39:22,788:WARNING:No valid data rows parsed from the report.
+2025-02-03 10:39:22,788:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_220623_26.pdf
+2025-02-03 10:39:25,066:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_220623_26.pdf
+2025-02-03 10:39:25,066:INFO:Highlighted data section parsed successfully.
+2025-02-03 10:39:25,066:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_220824_34.pdf
+2025-02-03 10:39:27,183:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_220824_34.pdf
+2025-02-03 10:39:27,200:WARNING:No valid data rows parsed from the report.
+2025-02-03 10:39:27,205:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_220922_39.pdf
+2025-02-03 10:39:28,850:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_220922_39.pdf
+2025-02-03 10:39:28,866:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_221021_43.pdf
+2025-02-03 10:39:30,626:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_221021_43.pdf
+2025-02-03 10:39:30,633:WARNING:No valid data rows parsed from the report.
+2025-02-03 10:39:30,633:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_221217_52.pdf
+2025-02-03 10:39:31,116:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_221217_52.pdf
+2025-02-03 10:39:31,121:WARNING:No valid data rows parsed from the report.
+2025-02-03 10:39:31,121:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_221222_52.pdf
+2025-02-03 10:39:32,900:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_221222_52.pdf
+2025-02-03 10:39:32,910:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_230223_9.pdf
+2025-02-03 10:39:34,699:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_230223_9.pdf
+2025-02-03 10:39:34,703:INFO:Highlighted data section parsed successfully.
+2025-02-03 10:39:34,703:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_230323_13.pdf
+2025-02-03 10:39:36,859:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_230323_13.pdf
+2025-02-03 10:39:36,864:INFO:Highlighted data section parsed successfully.
+2025-02-03 10:39:36,865:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_230422_17.pdf
+2025-02-03 10:39:38,676:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_230422_17.pdf
+2025-02-03 10:39:38,683:WARNING:No valid data rows parsed from the report.
+2025-02-03 10:39:38,683:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_230622_26.pdf
+2025-02-03 10:39:40,804:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_230622_26.pdf
+2025-02-03 10:39:40,822:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_230721_30.pdf
+2025-02-03 10:39:40,859:ERROR:Error extracting text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_230721_30.pdf: No /Root object! - Is this really a PDF?
+2025-02-03 10:39:40,859:INFO:No valid data extracted from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_230721_30.pdf
+2025-02-03 10:39:40,859:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_231117_48.pdf
+2025-02-03 10:39:41,699:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_231117_48.pdf
+2025-02-03 10:39:41,704:WARNING:No valid data rows parsed from the report.
+2025-02-03 10:39:41,704:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_231123_48.pdf
+2025-02-03 10:39:43,904:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_231123_48.pdf
+2025-02-03 10:39:43,904:INFO:Highlighted data section parsed successfully.
+2025-02-03 10:39:43,904:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_240823_35.pdf
+2025-02-03 10:39:46,292:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_240823_35.pdf
+2025-02-03 10:39:46,292:INFO:Highlighted data section parsed successfully.
+2025-02-03 10:39:46,292:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_241024_43.pdf
+2025-02-03 10:39:46,428:ERROR:Error extracting text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_241024_43.pdf: Unexpected EOF
+2025-02-03 10:39:46,428:INFO:No valid data extracted from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_241024_43.pdf
+2025-02-03 10:39:46,428:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_241122_48.pdf
+2025-02-03 10:39:48,499:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_241122_48.pdf
+2025-02-03 10:39:48,516:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_250118_4.pdf
+2025-02-03 10:39:49,187:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_250118_4.pdf
+2025-02-03 10:39:49,192:WARNING:No valid data rows parsed from the report.
+2025-02-03 10:39:49,192:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_250124_4.pdf
+2025-02-03 10:39:51,137:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_250124_4.pdf
+2025-02-03 10:39:51,142:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_250218_9.pdf
+2025-02-03 10:39:53,920:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_250218_9.pdf
+2025-02-03 10:39:53,931:WARNING:No valid data rows parsed from the report.
+2025-02-03 10:39:53,931:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_250523_22.pdf
+2025-02-03 10:39:54,059:ERROR:Error extracting text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_250523_22.pdf: Unexpected EOF
+2025-02-03 10:39:54,064:INFO:No valid data extracted from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_250523_22.pdf
+2025-02-03 10:39:54,064:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_250621_26.pdf
+2025-02-03 10:39:55,591:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_250621_26.pdf
+2025-02-03 10:39:55,598:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_250822_35.pdf
+2025-02-03 10:39:57,537:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_250822_35.pdf
+2025-02-03 10:39:57,549:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_251221_52.pdf
+2025-02-03 10:39:59,375:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_251221_52.pdf
+2025-02-03 10:39:59,381:WARNING:No valid data rows parsed from the report.
+2025-02-03 10:39:59,381:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_260123_5.pdf
+2025-02-03 10:40:01,132:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_260123_5.pdf
+2025-02-03 10:40:01,132:INFO:Highlighted data section parsed successfully.
+2025-02-03 10:40:01,132:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_260322_13.pdf
+2025-02-03 10:40:01,153:ERROR:Error extracting text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_260322_13.pdf: No /Root object! - Is this really a PDF?
+2025-02-03 10:40:01,153:INFO:No valid data extracted from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_260322_13.pdf
+2025-02-03 10:40:01,158:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_260924_39.pdf
+2025-02-03 10:40:01,953:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_260924_39.pdf
+2025-02-03 10:40:01,965:WARNING:No valid data rows parsed from the report.
+2025-02-03 10:40:01,965:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_261023_44.pdf
+2025-02-03 10:40:04,197:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_261023_44.pdf
+2025-02-03 10:40:04,198:INFO:Highlighted data section parsed successfully.
+2025-02-03 10:40:04,198:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_270423_18.pdf
+2025-02-03 10:40:06,647:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_270423_18.pdf
+2025-02-03 10:40:06,648:INFO:Highlighted data section parsed successfully.
+2025-02-03 10:40:06,648:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_270522_22.pdf
+2025-02-03 10:40:08,481:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_270522_22.pdf
+2025-02-03 10:40:08,497:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_270723_31.pdf
+2025-02-03 10:40:10,553:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_270723_31.pdf
+2025-02-03 10:40:10,558:INFO:Highlighted data section parsed successfully.
+2025-02-03 10:40:10,558:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_280722_31.pdf
+2025-02-03 10:40:10,653:ERROR:Error extracting text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_280722_31.pdf: Unexpected EOF
+2025-02-03 10:40:10,653:INFO:No valid data extracted from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_280722_31.pdf
+2025-02-03 10:40:10,653:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_280923_40.pdf
+2025-02-03 10:40:12,498:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_280923_40.pdf
+2025-02-03 10:40:12,498:INFO:Highlighted data section parsed successfully.
+2025-02-03 10:40:12,498:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_290623_27.pdf
+2025-02-03 10:40:16,774:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_290623_27.pdf
+2025-02-03 10:40:16,781:INFO:Highlighted data section parsed successfully.
+2025-02-03 10:40:16,781:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_290824_35.pdf
+2025-02-03 10:40:17,852:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_290824_35.pdf
+2025-02-03 10:40:17,864:WARNING:No valid data rows parsed from the report.
+2025-02-03 10:40:17,864:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_290922_40.pdf
+2025-02-03 10:40:19,531:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_290922_40.pdf
+2025-02-03 10:40:19,547:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_291222_53.pdf
+2025-02-03 10:40:20,936:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_291222_53.pdf
+2025-02-03 10:40:20,941:INFO:Highlighted data section parsed successfully.
+2025-02-03 10:40:20,941:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_300323_14.pdf
+2025-02-03 10:40:22,972:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_300323_14.pdf
+2025-02-03 10:40:22,977:INFO:Highlighted data section parsed successfully.
+2025-02-03 10:40:22,977:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_300622_27.pdf
+2025-02-03 10:40:25,047:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_300622_27.pdf
+2025-02-03 10:40:25,064:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_300919_40.pdf
+2025-02-03 10:40:25,847:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_300919_40.pdf
+2025-02-03 10:40:25,852:WARNING:No valid data rows parsed from the report.
+2025-02-03 10:40:25,857:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_301119_48.pdf
+2025-02-03 10:40:26,663:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_301119_48.pdf
+2025-02-03 10:40:26,668:WARNING:No valid data rows parsed from the report.
+2025-02-03 10:40:26,668:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_301123_49.pdf
+2025-02-03 10:40:28,747:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_301123_49.pdf
+2025-02-03 10:40:28,752:INFO:Highlighted data section parsed successfully.
+2025-02-03 10:40:28,752:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_310119_5.pdf
+2025-02-03 10:40:29,263:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_310119_5.pdf
+2025-02-03 10:40:29,263:WARNING:No valid data rows parsed from the report.
+2025-02-03 10:40:29,269:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_310819_35.pdf
+2025-02-03 10:40:29,852:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_310819_35.pdf
+2025-02-03 10:40:29,852:WARNING:No valid data rows parsed from the report.
+2025-02-03 10:40:29,857:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_310823_36.pdf
+2025-02-03 10:40:31,785:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_310823_36.pdf
+2025-02-03 10:40:31,785:INFO:Highlighted data section parsed successfully.
+2025-02-03 10:40:31,790:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_311019_44.pdf
+2025-02-03 10:40:32,564:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_311019_44.pdf
+2025-02-03 10:40:32,569:WARNING:No valid data rows parsed from the report.
+2025-02-03 10:40:32,574:INFO:Processing file: C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_311219_53.pdf
+2025-02-03 10:40:33,357:INFO:Successfully extracted text from C:\\xampp\\htdocs\\ncdc_scraper\\pdfs\An Update of Monkeypox Outbreak in Nigeria_311219_53.pdf
+2025-02-03 10:40:33,363:WARNING:No valid data rows parsed from the report.
+2025-02-03 10:40:33,520:INFO:CSV successfully written to parsed_report_1.csv
+2025-02-03 11:03:39,688:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_010623_23.pdf
+2025-02-03 11:03:42,306:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_010623_23.pdf
+2025-02-03 11:03:42,311:INFO:Highlighted data section parsed successfully.
+2025-02-03 11:03:42,311:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_010922_36.pdf
+2025-02-03 11:03:43,720:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_010922_36.pdf
+2025-02-03 11:03:43,755:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_011124_44.pdf
+2025-02-03 11:03:44,716:ERROR:Error extracting text from pdfs\An Update of Monkeypox Outbreak in Nigeria_011124_44.pdf: Unexpected EOF
+2025-02-03 11:03:44,716:INFO:No valid data extracted from pdfs\An Update of Monkeypox Outbreak in Nigeria_011124_44.pdf
+2025-02-03 11:03:44,716:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_011222_49.pdf
+2025-02-03 11:03:46,983:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_011222_49.pdf
+2025-02-03 11:03:46,999:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_020223_6.pdf
+2025-02-03 11:03:48,716:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_020223_6.pdf
+2025-02-03 11:03:48,716:INFO:Highlighted data section parsed successfully.
+2025-02-03 11:03:48,716:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_020323_10.pdf
+2025-02-03 11:03:50,259:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_020323_10.pdf
+2025-02-03 11:03:50,259:INFO:Highlighted data section parsed successfully.
+2025-02-03 11:03:50,259:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_020622_23.pdf
+2025-02-03 11:03:52,099:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_020622_23.pdf
+2025-02-03 11:03:52,116:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_021117_45.pdf
+2025-02-03 11:03:52,720:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_021117_45.pdf
+2025-02-03 11:03:52,766:WARNING:No valid data rows parsed from the report.
+2025-02-03 11:03:52,788:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_021123_45.pdf
+2025-02-03 11:03:53,937:ERROR:Error extracting text from pdfs\An Update of Monkeypox Outbreak in Nigeria_021123_45.pdf: Unexpected EOF
+2025-02-03 11:03:53,942:INFO:No valid data extracted from pdfs\An Update of Monkeypox Outbreak in Nigeria_021123_45.pdf
+2025-02-03 11:03:53,942:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_030823_32.pdf
+2025-02-03 11:03:55,965:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_030823_32.pdf
+2025-02-03 11:03:55,965:INFO:Highlighted data section parsed successfully.
+2025-02-03 11:03:55,965:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_031024_40.pdf
+2025-02-03 11:03:56,387:ERROR:Error extracting text from pdfs\An Update of Monkeypox Outbreak in Nigeria_031024_40.pdf: Unexpected EOF
+2025-02-03 11:03:56,387:INFO:No valid data extracted from pdfs\An Update of Monkeypox Outbreak in Nigeria_031024_40.pdf
+2025-02-03 11:03:56,387:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_031122_45.pdf
+2025-02-03 11:03:58,332:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_031122_45.pdf
+2025-02-03 11:03:58,352:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_040523_19.pdf
+2025-02-03 11:04:00,541:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_040523_19.pdf
+2025-02-03 11:04:00,546:INFO:Highlighted data section parsed successfully.
+2025-02-03 11:04:00,546:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_040822_32.pdf
+2025-02-03 11:04:02,265:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_040822_32.pdf
+2025-02-03 11:04:02,281:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_050123_2.pdf
+2025-02-03 11:04:03,842:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_050123_2.pdf
+2025-02-03 11:04:03,847:INFO:Highlighted data section parsed successfully.
+2025-02-03 11:04:03,848:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_050924_36.pdf
+2025-02-03 11:04:04,853:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_050924_36.pdf
+2025-02-03 11:04:04,892:WARNING:No valid data rows parsed from the report.
+2025-02-03 11:04:04,892:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_051023_41.pdf
+2025-02-03 11:04:07,242:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_051023_41.pdf
+2025-02-03 11:04:07,242:INFO:Highlighted data section parsed successfully.
+2025-02-03 11:04:07,247:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_060423_15.pdf
+2025-02-03 11:04:09,358:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_060423_15.pdf
+2025-02-03 11:04:09,358:INFO:Highlighted data section parsed successfully.
+2025-02-03 11:04:09,358:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_060723_28.pdf
+2025-02-03 11:04:11,736:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_060723_28.pdf
+2025-02-03 11:04:11,741:INFO:Highlighted data section parsed successfully.
+2025-02-03 11:04:11,741:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_061022_41.pdf
+2025-02-03 11:04:13,391:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_061022_41.pdf
+2025-02-03 11:04:13,408:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_070722_28.pdf
+2025-02-03 11:04:15,469:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_070722_28.pdf
+2025-02-03 11:04:15,486:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_070923_37.pdf
+2025-02-03 11:04:17,481:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_070923_37.pdf
+2025-02-03 11:04:17,481:INFO:Highlighted data section parsed successfully.
+2025-02-03 11:04:17,486:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_071223_50.pdf
+2025-02-03 11:04:19,707:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_071223_50.pdf
+2025-02-03 11:04:19,707:INFO:Highlighted data section parsed successfully.
+2025-02-03 11:04:19,707:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_080623_24.pdf
+2025-02-03 11:04:19,886:ERROR:Error extracting text from pdfs\An Update of Monkeypox Outbreak in Nigeria_080623_24.pdf: Unexpected EOF
+2025-02-03 11:04:19,886:INFO:No valid data extracted from pdfs\An Update of Monkeypox Outbreak in Nigeria_080623_24.pdf
+2025-02-03 11:04:19,886:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_080824_32.pdf
+2025-02-03 11:04:21,574:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_080824_32.pdf
+2025-02-03 11:04:21,602:WARNING:No valid data rows parsed from the report.
+2025-02-03 11:04:21,602:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_080922_37.pdf
+2025-02-03 11:04:23,407:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_080922_37.pdf
+2025-02-03 11:04:23,424:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_081222_50.pdf
+2025-02-03 11:04:25,307:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_081222_50.pdf
+2025-02-03 11:04:25,324:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_090223_7.pdf
+2025-02-03 11:04:26,847:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_090223_7.pdf
+2025-02-03 11:04:26,847:INFO:Highlighted data section parsed successfully.
+2025-02-03 11:04:26,847:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_090323_11.pdf
+2025-02-03 11:04:28,480:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_090323_11.pdf
+2025-02-03 11:04:28,480:INFO:Highlighted data section parsed successfully.
+2025-02-03 11:04:28,480:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_090622_24.pdf
+2025-02-03 11:04:30,630:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_090622_24.pdf
+2025-02-03 11:04:30,647:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_091017_42.pdf
+2025-02-03 11:04:30,885:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_091017_42.pdf
+2025-02-03 11:04:30,885:WARNING:No valid data rows parsed from the report.
+2025-02-03 11:04:30,890:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_091123_46.pdf
+2025-02-03 11:04:33,030:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_091123_46.pdf
+2025-02-03 11:04:33,030:INFO:Highlighted data section parsed successfully.
+2025-02-03 11:04:33,030:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_091217_50.pdf
+2025-02-03 11:04:33,414:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_091217_50.pdf
+2025-02-03 11:04:33,435:WARNING:No valid data rows parsed from the report.
+2025-02-03 11:04:33,435:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_100823_33.pdf
+2025-02-03 11:04:35,506:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_100823_33.pdf
+2025-02-03 11:04:35,506:INFO:Highlighted data section parsed successfully.
+2025-02-03 11:04:35,506:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_101024_41.pdf
+2025-02-03 11:04:36,185:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_101024_41.pdf
+2025-02-03 11:04:36,197:WARNING:No valid data rows parsed from the report.
+2025-02-03 11:04:36,197:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_101122_46.pdf
+2025-02-03 11:04:38,097:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_101122_46.pdf
+2025-02-03 11:04:38,113:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_110523_20.pdf
+2025-02-03 11:04:40,273:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_110523_20.pdf
+2025-02-03 11:04:40,273:INFO:Highlighted data section parsed successfully.
+2025-02-03 11:04:40,273:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_110724_28.pdf
+2025-02-03 11:04:40,851:ERROR:Error extracting text from pdfs\An Update of Monkeypox Outbreak in Nigeria_110724_28.pdf: Unexpected EOF
+2025-02-03 11:04:40,851:INFO:No valid data extracted from pdfs\An Update of Monkeypox Outbreak in Nigeria_110724_28.pdf
+2025-02-03 11:04:40,851:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_110822_33.pdf
+2025-02-03 11:04:42,480:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_110822_33.pdf
+2025-02-03 11:04:42,495:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_120123_3.pdf
+2025-02-03 11:04:44,290:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_120123_3.pdf
+2025-02-03 11:04:44,313:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_120924_37.pdf
+2025-02-03 11:04:45,173:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_120924_37.pdf
+2025-02-03 11:04:45,195:WARNING:No valid data rows parsed from the report.
+2025-02-03 11:04:45,196:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_121023_42.pdf
+2025-02-03 11:04:47,585:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_121023_42.pdf
+2025-02-03 11:04:47,585:INFO:Highlighted data section parsed successfully.
+2025-02-03 11:04:47,585:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_130423_16.pdf
+2025-02-03 11:04:49,580:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_130423_16.pdf
+2025-02-03 11:04:49,585:INFO:Highlighted data section parsed successfully.
+2025-02-03 11:04:49,585:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_130624_24.pdf
+2025-02-03 11:04:51,184:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_130624_24.pdf
+2025-02-03 11:04:51,196:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_130723_29.pdf
+2025-02-03 11:04:53,028:ERROR:Error extracting text from pdfs\An Update of Monkeypox Outbreak in Nigeria_130723_29.pdf: Unexpected EOF
+2025-02-03 11:04:53,028:INFO:No valid data extracted from pdfs\An Update of Monkeypox Outbreak in Nigeria_130723_29.pdf
+2025-02-03 11:04:53,028:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_131018_41.pdf
+2025-02-03 11:04:54,746:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_131018_41.pdf
+2025-02-03 11:04:54,751:WARNING:No valid data rows parsed from the report.
+2025-02-03 11:04:54,751:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_131022_42.pdf
+2025-02-03 11:04:56,501:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_131022_42.pdf
+2025-02-03 11:04:56,517:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_131118_46.pdf
+2025-02-03 11:04:57,284:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_131118_46.pdf
+2025-02-03 11:04:57,296:WARNING:No valid data rows parsed from the report.
+2025-02-03 11:04:57,296:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_131218_50.pdf
+2025-02-03 11:04:57,834:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_131218_50.pdf
+2025-02-03 11:04:57,839:WARNING:No valid data rows parsed from the report.
+2025-02-03 11:04:57,839:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_140722_29.pdf
+2025-02-03 11:04:59,813:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_140722_29.pdf
+2025-02-03 11:04:59,837:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_140923_38.pdf
+2025-02-03 11:05:01,912:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_140923_38.pdf
+2025-02-03 11:05:01,917:INFO:Highlighted data section parsed successfully.
+2025-02-03 11:05:01,917:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_141223_51.pdf
+2025-02-03 11:05:04,239:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_141223_51.pdf
+2025-02-03 11:05:04,245:INFO:Highlighted data section parsed successfully.
+2025-02-03 11:05:04,245:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_150623_25.pdf
+2025-02-03 11:05:06,367:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_150623_25.pdf
+2025-02-03 11:05:06,367:INFO:Highlighted data section parsed successfully.
+2025-02-03 11:05:06,367:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_150824_33.pdf
+2025-02-03 11:05:08,139:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_150824_33.pdf
+2025-02-03 11:05:08,162:WARNING:No valid data rows parsed from the report.
+2025-02-03 11:05:08,162:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_150918_37.pdf
+2025-02-03 11:05:08,701:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_150918_37.pdf
+2025-02-03 11:05:08,711:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_150922_38.pdf
+2025-02-03 11:05:10,395:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_150922_38.pdf
+2025-02-03 11:05:10,412:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_151222_51.pdf
+2025-02-03 11:05:12,216:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_151222_51.pdf
+2025-02-03 11:05:12,228:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_160223_8.pdf
+2025-02-03 11:05:13,995:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_160223_8.pdf
+2025-02-03 11:05:13,998:INFO:Highlighted data section parsed successfully.
+2025-02-03 11:05:13,998:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_160323_12.pdf
+2025-02-03 11:05:16,033:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_160323_12.pdf
+2025-02-03 11:05:16,038:INFO:Highlighted data section parsed successfully.
+2025-02-03 11:05:16,038:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_160524_20.pdf
+2025-02-03 11:05:17,905:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_160524_20.pdf
+2025-02-03 11:05:17,917:INFO:Highlighted data section parsed successfully.
+2025-02-03 11:05:17,917:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_160622_25.pdf
+2025-02-03 11:05:19,821:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_160622_25.pdf
+2025-02-03 11:05:19,838:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_161017_43.pdf
+2025-02-03 11:05:20,134:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_161017_43.pdf
+2025-02-03 11:05:20,139:WARNING:No valid data rows parsed from the report.
+2025-02-03 11:05:20,144:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_161123_47.pdf
+2025-02-03 11:05:22,514:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_161123_47.pdf
+2025-02-03 11:05:22,514:INFO:Highlighted data section parsed successfully.
+2025-02-03 11:05:22,514:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_170823_34.pdf
+2025-02-03 11:05:24,561:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_170823_34.pdf
+2025-02-03 11:05:24,561:INFO:Highlighted data section parsed successfully.
+2025-02-03 11:05:24,561:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_170921_38.pdf
+2025-02-03 11:05:26,028:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_170921_38.pdf
+2025-02-03 11:05:26,033:WARNING:No valid data rows parsed from the report.
+2025-02-03 11:05:26,033:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_171024_42.pdf
+2025-02-03 11:05:26,599:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_171024_42.pdf
+2025-02-03 11:05:26,611:WARNING:No valid data rows parsed from the report.
+2025-02-03 11:05:26,611:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_171122_47.pdf
+2025-02-03 11:05:28,516:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_171122_47.pdf
+2025-02-03 11:05:28,532:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_180424_16.pdf
+2025-02-03 11:05:30,016:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_180424_16.pdf
+2025-02-03 11:05:30,028:INFO:Highlighted data section parsed successfully.
+2025-02-03 11:05:30,028:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_180523_21.pdf
+2025-02-03 11:05:32,087:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_180523_21.pdf
+2025-02-03 11:05:32,087:INFO:Highlighted data section parsed successfully.
+2025-02-03 11:05:32,092:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_180822_34.pdf
+2025-02-03 11:05:33,882:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_180822_34.pdf
+2025-02-03 11:05:33,899:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_190123_4.pdf
+2025-02-03 11:05:35,844:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_190123_4.pdf
+2025-02-03 11:05:35,844:INFO:Highlighted data section parsed successfully.
+2025-02-03 11:05:35,844:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_190222_8.pdf
+2025-02-03 11:05:37,298:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_190222_8.pdf
+2025-02-03 11:05:37,303:WARNING:No valid data rows parsed from the report.
+2025-02-03 11:05:37,303:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_190522_21.pdf
+2025-02-03 11:05:39,237:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_190522_21.pdf
+2025-02-03 11:05:39,248:WARNING:No valid data rows parsed from the report.
+2025-02-03 11:05:39,248:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_190924_38.pdf
+2025-02-03 11:05:40,113:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_190924_38.pdf
+2025-02-03 11:05:40,127:WARNING:No valid data rows parsed from the report.
+2025-02-03 11:05:40,127:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_191017_43.pdf
+2025-02-03 11:05:41,277:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_191017_43.pdf
+2025-02-03 11:05:41,282:WARNING:No valid data rows parsed from the report.
+2025-02-03 11:05:41,282:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_191023_43.pdf
+2025-02-03 11:05:43,215:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_191023_43.pdf
+2025-02-03 11:05:43,220:INFO:Highlighted data section parsed successfully.
+2025-02-03 11:05:43,220:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_191117_48.pdf
+2025-02-03 11:05:44,063:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_191117_48.pdf
+2025-02-03 11:05:44,068:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_200423_17.pdf
+2025-02-03 11:05:46,176:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_200423_17.pdf
+2025-02-03 11:05:46,177:INFO:Highlighted data section parsed successfully.
+2025-02-03 11:05:46,177:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_200723_30.pdf
+2025-02-03 11:05:46,215:ERROR:Error extracting text from pdfs\An Update of Monkeypox Outbreak in Nigeria_200723_30.pdf: Unexpected EOF
+2025-02-03 11:05:46,215:INFO:No valid data extracted from pdfs\An Update of Monkeypox Outbreak in Nigeria_200723_30.pdf
+2025-02-03 11:05:46,215:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_200821_34.pdf
+2025-02-03 11:05:47,715:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_200821_34.pdf
+2025-02-03 11:05:47,720:WARNING:No valid data rows parsed from the report.
+2025-02-03 11:05:47,720:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_201022_43.pdf
+2025-02-03 11:05:48,009:ERROR:Error extracting text from pdfs\An Update of Monkeypox Outbreak in Nigeria_201022_43.pdf: Unexpected EOF
+2025-02-03 11:05:48,010:INFO:No valid data extracted from pdfs\An Update of Monkeypox Outbreak in Nigeria_201022_43.pdf
+2025-02-03 11:05:48,010:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_201121_47.pdf
+2025-02-03 11:05:49,943:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_201121_47.pdf
+2025-02-03 11:05:49,948:WARNING:No valid data rows parsed from the report.
+2025-02-03 11:05:49,948:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_210324_12.pdf
+2025-02-03 11:05:51,537:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_210324_12.pdf
+2025-02-03 11:05:51,553:WARNING:No valid data rows parsed from the report.
+2025-02-03 11:05:51,553:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_210521_21.pdf
+2025-02-03 11:05:53,170:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_210521_21.pdf
+2025-02-03 11:05:53,177:WARNING:No valid data rows parsed from the report.
+2025-02-03 11:05:53,177:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_210722_30.pdf
+2025-02-03 11:05:54,815:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_210722_30.pdf
+2025-02-03 11:05:54,836:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_210923_39.pdf
+2025-02-03 11:05:56,836:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_210923_39.pdf
+2025-02-03 11:05:56,841:INFO:Highlighted data section parsed successfully.
+2025-02-03 11:05:56,842:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_211223_52.pdf
+2025-02-03 11:05:58,848:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_211223_52.pdf
+2025-02-03 11:05:58,848:INFO:Highlighted data section parsed successfully.
+2025-02-03 11:05:58,848:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_220122_4.pdf
+2025-02-03 11:06:00,431:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_220122_4.pdf
+2025-02-03 11:06:00,436:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_220224_8.pdf
+2025-02-03 11:06:02,053:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_220224_8.pdf
+2025-02-03 11:06:02,059:INFO:Highlighted data section parsed successfully.
+2025-02-03 11:06:02,059:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_220623_26.pdf
+2025-02-03 11:06:04,343:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_220623_26.pdf
+2025-02-03 11:06:04,343:INFO:Highlighted data section parsed successfully.
+2025-02-03 11:06:04,343:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_220824_34.pdf
+2025-02-03 11:06:06,448:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_220824_34.pdf
+2025-02-03 11:06:06,476:WARNING:No valid data rows parsed from the report.
+2025-02-03 11:06:06,476:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_220922_39.pdf
+2025-02-03 11:06:08,098:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_220922_39.pdf
+2025-02-03 11:06:08,114:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_221021_43.pdf
+2025-02-03 11:06:09,692:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_221021_43.pdf
+2025-02-03 11:06:09,697:WARNING:No valid data rows parsed from the report.
+2025-02-03 11:06:09,697:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_221217_52.pdf
+2025-02-03 11:06:10,378:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_221217_52.pdf
+2025-02-03 11:06:10,388:WARNING:No valid data rows parsed from the report.
+2025-02-03 11:06:10,394:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_221222_52.pdf
+2025-02-03 11:06:12,502:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_221222_52.pdf
+2025-02-03 11:06:12,514:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_230223_9.pdf
+2025-02-03 11:06:14,709:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_230223_9.pdf
+2025-02-03 11:06:14,709:INFO:Highlighted data section parsed successfully.
+2025-02-03 11:06:14,709:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_230323_13.pdf
+2025-02-03 11:06:17,963:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_230323_13.pdf
+2025-02-03 11:06:17,963:INFO:Highlighted data section parsed successfully.
+2025-02-03 11:06:17,963:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_230422_17.pdf
+2025-02-03 11:06:19,809:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_230422_17.pdf
+2025-02-03 11:06:19,814:WARNING:No valid data rows parsed from the report.
+2025-02-03 11:06:19,814:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_230622_26.pdf
+2025-02-03 11:06:23,202:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_230622_26.pdf
+2025-02-03 11:06:23,224:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_230721_30.pdf
+2025-02-03 11:06:23,258:ERROR:Error extracting text from pdfs\An Update of Monkeypox Outbreak in Nigeria_230721_30.pdf: No /Root object! - Is this really a PDF?
+2025-02-03 11:06:23,259:INFO:No valid data extracted from pdfs\An Update of Monkeypox Outbreak in Nigeria_230721_30.pdf
+2025-02-03 11:06:23,259:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_231117_48.pdf
+2025-02-03 11:06:24,130:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_231117_48.pdf
+2025-02-03 11:06:24,135:WARNING:No valid data rows parsed from the report.
+2025-02-03 11:06:24,135:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_231123_48.pdf
+2025-02-03 11:06:26,292:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_231123_48.pdf
+2025-02-03 11:06:26,297:INFO:Highlighted data section parsed successfully.
+2025-02-03 11:06:26,297:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_240823_35.pdf
+2025-02-03 11:06:28,768:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_240823_35.pdf
+2025-02-03 11:06:28,775:INFO:Highlighted data section parsed successfully.
+2025-02-03 11:06:28,775:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_241024_43.pdf
+2025-02-03 11:06:28,882:ERROR:Error extracting text from pdfs\An Update of Monkeypox Outbreak in Nigeria_241024_43.pdf: Unexpected EOF
+2025-02-03 11:06:28,882:INFO:No valid data extracted from pdfs\An Update of Monkeypox Outbreak in Nigeria_241024_43.pdf
+2025-02-03 11:06:28,882:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_241122_48.pdf
+2025-02-03 11:06:30,930:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_241122_48.pdf
+2025-02-03 11:06:30,952:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_250118_4.pdf
+2025-02-03 11:06:31,508:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_250118_4.pdf
+2025-02-03 11:06:31,515:WARNING:No valid data rows parsed from the report.
+2025-02-03 11:06:31,515:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_250124_4.pdf
+2025-02-03 11:06:33,135:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_250124_4.pdf
+2025-02-03 11:06:33,141:INFO:Highlighted data section parsed successfully.
+2025-02-03 11:06:33,141:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_250218_9.pdf
+2025-02-03 11:06:34,192:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_250218_9.pdf
+2025-02-03 11:06:34,202:WARNING:No valid data rows parsed from the report.
+2025-02-03 11:06:34,202:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_250523_22.pdf
+2025-02-03 11:06:34,410:ERROR:Error extracting text from pdfs\An Update of Monkeypox Outbreak in Nigeria_250523_22.pdf: Unexpected EOF
+2025-02-03 11:06:34,410:INFO:No valid data extracted from pdfs\An Update of Monkeypox Outbreak in Nigeria_250523_22.pdf
+2025-02-03 11:06:34,410:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_250621_26.pdf
+2025-02-03 11:06:35,801:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_250621_26.pdf
+2025-02-03 11:06:35,808:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_250822_35.pdf
+2025-02-03 11:06:37,595:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_250822_35.pdf
+2025-02-03 11:06:37,607:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_251221_52.pdf
+2025-02-03 11:06:39,363:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_251221_52.pdf
+2025-02-03 11:06:39,368:WARNING:No valid data rows parsed from the report.
+2025-02-03 11:06:39,368:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_260123_5.pdf
+2025-02-03 11:06:41,063:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_260123_5.pdf
+2025-02-03 11:06:41,065:INFO:Highlighted data section parsed successfully.
+2025-02-03 11:06:41,065:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_260322_13.pdf
+2025-02-03 11:06:41,066:ERROR:Error extracting text from pdfs\An Update of Monkeypox Outbreak in Nigeria_260322_13.pdf: No /Root object! - Is this really a PDF?
+2025-02-03 11:06:41,066:INFO:No valid data extracted from pdfs\An Update of Monkeypox Outbreak in Nigeria_260322_13.pdf
+2025-02-03 11:06:41,066:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_260924_39.pdf
+2025-02-03 11:06:41,918:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_260924_39.pdf
+2025-02-03 11:06:41,934:WARNING:No valid data rows parsed from the report.
+2025-02-03 11:06:41,934:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_261023_44.pdf
+2025-02-03 11:06:44,134:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_261023_44.pdf
+2025-02-03 11:06:44,140:INFO:Highlighted data section parsed successfully.
+2025-02-03 11:06:44,141:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_270423_18.pdf
+2025-02-03 11:06:46,240:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_270423_18.pdf
+2025-02-03 11:06:46,245:INFO:Highlighted data section parsed successfully.
+2025-02-03 11:06:46,245:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_270522_22.pdf
+2025-02-03 11:06:48,000:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_270522_22.pdf
+2025-02-03 11:06:48,012:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_270723_31.pdf
+2025-02-03 11:06:50,279:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_270723_31.pdf
+2025-02-03 11:06:50,324:INFO:Highlighted data section parsed successfully.
+2025-02-03 11:06:50,324:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_280722_31.pdf
+2025-02-03 11:06:50,468:ERROR:Error extracting text from pdfs\An Update of Monkeypox Outbreak in Nigeria_280722_31.pdf: Unexpected EOF
+2025-02-03 11:06:50,468:INFO:No valid data extracted from pdfs\An Update of Monkeypox Outbreak in Nigeria_280722_31.pdf
+2025-02-03 11:06:50,468:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_280923_40.pdf
+2025-02-03 11:06:52,317:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_280923_40.pdf
+2025-02-03 11:06:52,317:INFO:Highlighted data section parsed successfully.
+2025-02-03 11:06:52,317:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_290623_27.pdf
+2025-02-03 11:06:54,333:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_290623_27.pdf
+2025-02-03 11:06:54,333:INFO:Highlighted data section parsed successfully.
+2025-02-03 11:06:54,333:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_290824_35.pdf
+2025-02-03 11:06:55,424:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_290824_35.pdf
+2025-02-03 11:06:55,440:WARNING:No valid data rows parsed from the report.
+2025-02-03 11:06:55,440:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_290922_40.pdf
+2025-02-03 11:06:57,040:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_290922_40.pdf
+2025-02-03 11:06:57,057:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_291222_53.pdf
+2025-02-03 11:06:58,457:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_291222_53.pdf
+2025-02-03 11:06:58,457:INFO:Highlighted data section parsed successfully.
+2025-02-03 11:06:58,457:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_300323_14.pdf
+2025-02-03 11:07:00,628:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_300323_14.pdf
+2025-02-03 11:07:00,628:INFO:Highlighted data section parsed successfully.
+2025-02-03 11:07:00,628:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_300622_27.pdf
+2025-02-03 11:07:02,612:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_300622_27.pdf
+2025-02-03 11:07:02,628:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_300919_40.pdf
+2025-02-03 11:07:03,445:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_300919_40.pdf
+2025-02-03 11:07:03,455:WARNING:No valid data rows parsed from the report.
+2025-02-03 11:07:03,457:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_301119_48.pdf
+2025-02-03 11:07:04,207:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_301119_48.pdf
+2025-02-03 11:07:04,212:WARNING:No valid data rows parsed from the report.
+2025-02-03 11:07:04,212:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_301123_49.pdf
+2025-02-03 11:07:06,173:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_301123_49.pdf
+2025-02-03 11:07:06,173:INFO:Highlighted data section parsed successfully.
+2025-02-03 11:07:06,173:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_310119_5.pdf
+2025-02-03 11:07:06,712:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_310119_5.pdf
+2025-02-03 11:07:06,712:WARNING:No valid data rows parsed from the report.
+2025-02-03 11:07:06,717:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_310819_35.pdf
+2025-02-03 11:07:07,290:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_310819_35.pdf
+2025-02-03 11:07:07,290:WARNING:No valid data rows parsed from the report.
+2025-02-03 11:07:07,295:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_310823_36.pdf
+2025-02-03 11:07:09,383:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_310823_36.pdf
+2025-02-03 11:07:09,390:INFO:Highlighted data section parsed successfully.
+2025-02-03 11:07:09,390:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_311019_44.pdf
+2025-02-03 11:07:10,373:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_311019_44.pdf
+2025-02-03 11:07:10,378:WARNING:No valid data rows parsed from the report.
+2025-02-03 11:07:10,383:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_311219_53.pdf
+2025-02-03 11:07:11,390:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_311219_53.pdf
+2025-02-03 11:07:11,395:WARNING:No valid data rows parsed from the report.
+2025-02-03 11:07:11,417:INFO:CSV successfully written to parsed_report.csv
+2025-02-03 11:09:57,092:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_010623_23.pdf
+2025-02-03 11:09:58,888:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_010623_23.pdf
+2025-02-03 11:09:58,893:INFO:Highlighted data section parsed successfully.
+2025-02-03 11:09:58,893:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_010922_36.pdf
+2025-02-03 11:10:00,192:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_010922_36.pdf
+2025-02-03 11:10:00,203:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_011124_44.pdf
+2025-02-03 11:10:00,359:ERROR:Error extracting text from pdfs\An Update of Monkeypox Outbreak in Nigeria_011124_44.pdf: Unexpected EOF
+2025-02-03 11:10:00,359:INFO:No valid data extracted from pdfs\An Update of Monkeypox Outbreak in Nigeria_011124_44.pdf
+2025-02-03 11:10:00,359:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_011222_49.pdf
+2025-02-03 11:10:02,282:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_011222_49.pdf
+2025-02-03 11:10:02,298:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_020223_6.pdf
+2025-02-03 11:10:03,632:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_020223_6.pdf
+2025-02-03 11:10:03,632:INFO:Highlighted data section parsed successfully.
+2025-02-03 11:10:03,632:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_020323_10.pdf
+2025-02-03 11:10:05,068:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_020323_10.pdf
+2025-02-03 11:10:05,068:INFO:Highlighted data section parsed successfully.
+2025-02-03 11:10:05,068:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_020622_23.pdf
+2025-02-03 11:10:06,808:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_020622_23.pdf
+2025-02-03 11:10:06,820:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_021117_45.pdf
+2025-02-03 11:10:07,358:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_021117_45.pdf
+2025-02-03 11:10:07,364:WARNING:No valid data rows parsed from the report.
+2025-02-03 11:10:07,369:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_021123_45.pdf
+2025-02-03 11:10:07,896:ERROR:Error extracting text from pdfs\An Update of Monkeypox Outbreak in Nigeria_021123_45.pdf: Unexpected EOF
+2025-02-03 11:10:07,896:INFO:No valid data extracted from pdfs\An Update of Monkeypox Outbreak in Nigeria_021123_45.pdf
+2025-02-03 11:10:07,896:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_030823_32.pdf
+2025-02-03 11:10:09,653:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_030823_32.pdf
+2025-02-03 11:10:09,658:INFO:Highlighted data section parsed successfully.
+2025-02-03 11:10:09,658:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_031024_40.pdf
+2025-02-03 11:10:09,920:ERROR:Error extracting text from pdfs\An Update of Monkeypox Outbreak in Nigeria_031024_40.pdf: Unexpected EOF
+2025-02-03 11:10:09,920:INFO:No valid data extracted from pdfs\An Update of Monkeypox Outbreak in Nigeria_031024_40.pdf
+2025-02-03 11:10:09,920:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_031122_45.pdf
+2025-02-03 11:10:11,675:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_031122_45.pdf
+2025-02-03 11:10:11,691:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_040523_19.pdf
+2025-02-03 11:10:13,386:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_040523_19.pdf
+2025-02-03 11:10:13,386:INFO:Highlighted data section parsed successfully.
+2025-02-03 11:10:13,386:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_040822_32.pdf
+2025-02-03 11:10:14,958:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_040822_32.pdf
+2025-02-03 11:10:14,981:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_050123_2.pdf
+2025-02-03 11:10:16,424:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_050123_2.pdf
+2025-02-03 11:10:16,424:INFO:Highlighted data section parsed successfully.
+2025-02-03 11:10:16,424:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_050924_36.pdf
+2025-02-03 11:10:17,257:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_050924_36.pdf
+2025-02-03 11:10:17,274:WARNING:No valid data rows parsed from the report.
+2025-02-03 11:10:17,274:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_051023_41.pdf
+2025-02-03 11:10:19,003:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_051023_41.pdf
+2025-02-03 11:10:19,008:INFO:Highlighted data section parsed successfully.
+2025-02-03 11:10:19,008:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_060423_15.pdf
+2025-02-03 11:10:20,681:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_060423_15.pdf
+2025-02-03 11:10:20,685:INFO:Highlighted data section parsed successfully.
+2025-02-03 11:10:20,685:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_060723_28.pdf
+2025-02-03 11:10:22,430:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_060723_28.pdf
+2025-02-03 11:10:22,435:INFO:Highlighted data section parsed successfully.
+2025-02-03 11:10:22,435:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_061022_41.pdf
+2025-02-03 11:10:24,019:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_061022_41.pdf
+2025-02-03 11:10:24,035:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_070722_28.pdf
+2025-02-03 11:10:25,974:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_070722_28.pdf
+2025-02-03 11:10:25,991:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_070923_37.pdf
+2025-02-03 11:10:27,690:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_070923_37.pdf
+2025-02-03 11:10:27,690:INFO:Highlighted data section parsed successfully.
+2025-02-03 11:10:27,690:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_071223_50.pdf
+2025-02-03 11:10:29,469:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_071223_50.pdf
+2025-02-03 11:10:29,469:INFO:Highlighted data section parsed successfully.
+2025-02-03 11:10:29,469:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_080623_24.pdf
+2025-02-03 11:10:29,507:ERROR:Error extracting text from pdfs\An Update of Monkeypox Outbreak in Nigeria_080623_24.pdf: Unexpected EOF
+2025-02-03 11:10:29,507:INFO:No valid data extracted from pdfs\An Update of Monkeypox Outbreak in Nigeria_080623_24.pdf
+2025-02-03 11:10:29,507:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_080824_32.pdf
+2025-02-03 11:10:31,097:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_080824_32.pdf
+2025-02-03 11:10:31,124:WARNING:No valid data rows parsed from the report.
+2025-02-03 11:10:31,124:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_080922_37.pdf
+2025-02-03 11:10:32,885:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_080922_37.pdf
+2025-02-03 11:10:32,897:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_081222_50.pdf
+2025-02-03 11:10:34,680:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_081222_50.pdf
+2025-02-03 11:10:34,702:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_090223_7.pdf
+2025-02-03 11:10:36,114:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_090223_7.pdf
+2025-02-03 11:10:36,114:INFO:Highlighted data section parsed successfully.
+2025-02-03 11:10:36,114:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_090323_11.pdf
+2025-02-03 11:10:37,663:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_090323_11.pdf
+2025-02-03 11:10:37,668:INFO:Highlighted data section parsed successfully.
+2025-02-03 11:10:37,668:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_090622_24.pdf
+2025-02-03 11:10:39,463:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_090622_24.pdf
+2025-02-03 11:10:39,473:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_091017_42.pdf
+2025-02-03 11:10:39,585:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_091017_42.pdf
+2025-02-03 11:10:39,590:WARNING:No valid data rows parsed from the report.
+2025-02-03 11:10:39,590:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_091123_46.pdf
+2025-02-03 11:10:41,357:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_091123_46.pdf
+2025-02-03 11:10:41,357:INFO:Highlighted data section parsed successfully.
+2025-02-03 11:10:41,357:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_091217_50.pdf
+2025-02-03 11:10:41,640:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_091217_50.pdf
+2025-02-03 11:10:41,647:WARNING:No valid data rows parsed from the report.
+2025-02-03 11:10:41,652:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_100823_33.pdf
+2025-02-03 11:10:43,413:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_100823_33.pdf
+2025-02-03 11:10:43,413:INFO:Highlighted data section parsed successfully.
+2025-02-03 11:10:43,413:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_101024_41.pdf
+2025-02-03 11:10:43,880:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_101024_41.pdf
+2025-02-03 11:10:43,890:WARNING:No valid data rows parsed from the report.
+2025-02-03 11:10:43,890:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_101122_46.pdf
+2025-02-03 11:10:45,640:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_101122_46.pdf
+2025-02-03 11:10:45,657:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_110523_20.pdf
+2025-02-03 11:10:47,380:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_110523_20.pdf
+2025-02-03 11:10:47,380:INFO:Highlighted data section parsed successfully.
+2025-02-03 11:10:47,380:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_110724_28.pdf
+2025-02-03 11:10:47,751:ERROR:Error extracting text from pdfs\An Update of Monkeypox Outbreak in Nigeria_110724_28.pdf: Unexpected EOF
+2025-02-03 11:10:47,751:INFO:No valid data extracted from pdfs\An Update of Monkeypox Outbreak in Nigeria_110724_28.pdf
+2025-02-03 11:10:47,751:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_110822_33.pdf
+2025-02-03 11:10:49,268:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_110822_33.pdf
+2025-02-03 11:10:49,280:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_120123_3.pdf
+2025-02-03 11:10:50,823:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_120123_3.pdf
+2025-02-03 11:10:50,846:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_120924_37.pdf
+2025-02-03 11:10:51,563:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_120924_37.pdf
+2025-02-03 11:10:51,585:WARNING:No valid data rows parsed from the report.
+2025-02-03 11:10:51,585:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_121023_42.pdf
+2025-02-03 11:10:53,346:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_121023_42.pdf
+2025-02-03 11:10:53,351:INFO:Highlighted data section parsed successfully.
+2025-02-03 11:10:53,351:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_130423_16.pdf
+2025-02-03 11:10:55,034:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_130423_16.pdf
+2025-02-03 11:10:55,034:INFO:Highlighted data section parsed successfully.
+2025-02-03 11:10:55,034:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_130624_24.pdf
+2025-02-03 11:10:56,456:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_130624_24.pdf
+2025-02-03 11:10:56,472:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_130723_29.pdf
+2025-02-03 11:10:56,485:ERROR:Error extracting text from pdfs\An Update of Monkeypox Outbreak in Nigeria_130723_29.pdf: Unexpected EOF
+2025-02-03 11:10:56,485:INFO:No valid data extracted from pdfs\An Update of Monkeypox Outbreak in Nigeria_130723_29.pdf
+2025-02-03 11:10:56,485:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_131018_41.pdf
+2025-02-03 11:10:56,901:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_131018_41.pdf
+2025-02-03 11:10:56,906:WARNING:No valid data rows parsed from the report.
+2025-02-03 11:10:56,911:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_131022_42.pdf
+2025-02-03 11:10:58,518:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_131022_42.pdf
+2025-02-03 11:10:58,529:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_131118_46.pdf
+2025-02-03 11:10:59,118:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_131118_46.pdf
+2025-02-03 11:10:59,123:WARNING:No valid data rows parsed from the report.
+2025-02-03 11:10:59,123:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_131218_50.pdf
+2025-02-03 11:10:59,484:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_131218_50.pdf
+2025-02-03 11:10:59,484:WARNING:No valid data rows parsed from the report.
+2025-02-03 11:10:59,489:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_140722_29.pdf
+2025-02-03 11:11:01,206:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_140722_29.pdf
+2025-02-03 11:11:01,222:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_140923_38.pdf
+2025-02-03 11:11:03,022:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_140923_38.pdf
+2025-02-03 11:11:03,029:INFO:Highlighted data section parsed successfully.
+2025-02-03 11:11:03,029:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_141223_51.pdf
+2025-02-03 11:11:04,784:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_141223_51.pdf
+2025-02-03 11:11:04,789:INFO:Highlighted data section parsed successfully.
+2025-02-03 11:11:04,789:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_150623_25.pdf
+2025-02-03 11:11:06,496:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_150623_25.pdf
+2025-02-03 11:11:06,496:INFO:Highlighted data section parsed successfully.
+2025-02-03 11:11:06,501:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_150824_33.pdf
+2025-02-03 11:11:08,284:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_150824_33.pdf
+2025-02-03 11:11:08,305:WARNING:No valid data rows parsed from the report.
+2025-02-03 11:11:08,305:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_150918_37.pdf
+2025-02-03 11:11:08,712:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_150918_37.pdf
+2025-02-03 11:11:08,717:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_150922_38.pdf
+2025-02-03 11:11:10,317:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_150922_38.pdf
+2025-02-03 11:11:10,329:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_151222_51.pdf
+2025-02-03 11:11:12,062:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_151222_51.pdf
+2025-02-03 11:11:12,072:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_160223_8.pdf
+2025-02-03 11:11:14,112:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_160223_8.pdf
+2025-02-03 11:11:14,112:INFO:Highlighted data section parsed successfully.
+2025-02-03 11:11:14,112:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_160323_12.pdf
+2025-02-03 11:11:16,612:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_160323_12.pdf
+2025-02-03 11:11:16,617:INFO:Highlighted data section parsed successfully.
+2025-02-03 11:11:16,617:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_160524_20.pdf
+2025-02-03 11:11:19,051:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_160524_20.pdf
+2025-02-03 11:11:19,066:INFO:Highlighted data section parsed successfully.
+2025-02-03 11:11:19,066:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_160622_25.pdf
+2025-02-03 11:11:21,461:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_160622_25.pdf
+2025-02-03 11:11:21,488:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_161017_43.pdf
+2025-02-03 11:11:21,733:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_161017_43.pdf
+2025-02-03 11:11:21,733:WARNING:No valid data rows parsed from the report.
+2025-02-03 11:11:21,738:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_161123_47.pdf
+2025-02-03 11:11:24,215:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_161123_47.pdf
+2025-02-03 11:11:24,220:INFO:Highlighted data section parsed successfully.
+2025-02-03 11:11:24,220:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_170823_34.pdf
+2025-02-03 11:11:26,792:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_170823_34.pdf
+2025-02-03 11:11:26,797:INFO:Highlighted data section parsed successfully.
+2025-02-03 11:11:26,797:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_170921_38.pdf
+2025-02-03 11:11:29,479:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_170921_38.pdf
+2025-02-03 11:11:29,496:WARNING:No valid data rows parsed from the report.
+2025-02-03 11:11:29,496:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_171024_42.pdf
+2025-02-03 11:11:33,488:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_171024_42.pdf
+2025-02-03 11:11:33,494:WARNING:No valid data rows parsed from the report.
+2025-02-03 11:11:33,500:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_171122_47.pdf
+2025-02-03 11:11:36,487:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_171122_47.pdf
+2025-02-03 11:11:36,504:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_180424_16.pdf
+2025-02-03 11:11:40,016:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_180424_16.pdf
+2025-02-03 11:11:40,028:INFO:Highlighted data section parsed successfully.
+2025-02-03 11:11:40,028:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_180523_21.pdf
+2025-02-03 11:11:50,144:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_180523_21.pdf
+2025-02-03 11:11:50,149:INFO:Highlighted data section parsed successfully.
+2025-02-03 11:11:50,149:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_180822_34.pdf
+2025-02-03 11:11:52,577:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_180822_34.pdf
+2025-02-03 11:11:52,593:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_190123_4.pdf
+2025-02-03 11:11:55,243:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_190123_4.pdf
+2025-02-03 11:11:55,243:INFO:Highlighted data section parsed successfully.
+2025-02-03 11:11:55,243:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_190222_8.pdf
+2025-02-03 11:11:57,560:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_190222_8.pdf
+2025-02-03 11:11:57,577:WARNING:No valid data rows parsed from the report.
+2025-02-03 11:11:57,577:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_190522_21.pdf
+2025-02-03 11:12:00,115:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_190522_21.pdf
+2025-02-03 11:12:00,120:WARNING:No valid data rows parsed from the report.
+2025-02-03 11:12:00,120:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_190924_38.pdf
+2025-02-03 11:12:02,186:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_190924_38.pdf
+2025-02-03 11:12:02,210:WARNING:No valid data rows parsed from the report.
+2025-02-03 11:12:02,215:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_191017_43.pdf
+2025-02-03 11:12:04,898:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_191017_43.pdf
+2025-02-03 11:12:04,903:WARNING:No valid data rows parsed from the report.
+2025-02-03 11:12:04,903:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_191023_43.pdf
+2025-02-03 11:12:10,003:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_191023_43.pdf
+2025-02-03 11:12:10,003:INFO:Highlighted data section parsed successfully.
+2025-02-03 11:12:10,003:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_191117_48.pdf
+2025-02-03 11:12:12,178:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_191117_48.pdf
+2025-02-03 11:12:12,203:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_200423_17.pdf
+2025-02-03 11:12:18,940:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_200423_17.pdf
+2025-02-03 11:12:18,942:INFO:Highlighted data section parsed successfully.
+2025-02-03 11:12:18,942:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_200723_30.pdf
+2025-02-03 11:12:19,536:ERROR:Error extracting text from pdfs\An Update of Monkeypox Outbreak in Nigeria_200723_30.pdf: Unexpected EOF
+2025-02-03 11:12:19,536:INFO:No valid data extracted from pdfs\An Update of Monkeypox Outbreak in Nigeria_200723_30.pdf
+2025-02-03 11:12:19,536:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_200821_34.pdf
+2025-02-03 11:12:24,909:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_200821_34.pdf
+2025-02-03 11:12:24,914:WARNING:No valid data rows parsed from the report.
+2025-02-03 11:12:24,914:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_201022_43.pdf
+2025-02-03 11:12:25,497:ERROR:Error extracting text from pdfs\An Update of Monkeypox Outbreak in Nigeria_201022_43.pdf: Unexpected EOF
+2025-02-03 11:12:25,497:INFO:No valid data extracted from pdfs\An Update of Monkeypox Outbreak in Nigeria_201022_43.pdf
+2025-02-03 11:12:25,497:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_201121_47.pdf
+2025-02-03 11:12:27,981:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_201121_47.pdf
+2025-02-03 11:12:27,992:WARNING:No valid data rows parsed from the report.
+2025-02-03 11:12:27,992:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_210324_12.pdf
+2025-02-03 11:12:30,002:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_210324_12.pdf
+2025-02-03 11:12:30,025:WARNING:No valid data rows parsed from the report.
+2025-02-03 11:12:30,025:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_210521_21.pdf
+2025-02-03 11:12:31,737:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_210521_21.pdf
+2025-02-03 11:12:31,764:WARNING:No valid data rows parsed from the report.
+2025-02-03 11:12:31,764:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_210722_30.pdf
+2025-02-03 11:12:33,373:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_210722_30.pdf
+2025-02-03 11:12:33,391:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_210923_39.pdf
+2025-02-03 11:12:35,302:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_210923_39.pdf
+2025-02-03 11:12:35,302:INFO:Highlighted data section parsed successfully.
+2025-02-03 11:12:35,302:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_211223_52.pdf
+2025-02-03 11:12:37,425:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_211223_52.pdf
+2025-02-03 11:12:37,430:INFO:Highlighted data section parsed successfully.
+2025-02-03 11:12:37,430:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_220122_4.pdf
+2025-02-03 11:12:38,885:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_220122_4.pdf
+2025-02-03 11:12:38,891:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_220224_8.pdf
+2025-02-03 11:12:40,501:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_220224_8.pdf
+2025-02-03 11:12:40,507:INFO:Highlighted data section parsed successfully.
+2025-02-03 11:12:40,507:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_220623_26.pdf
+2025-02-03 11:12:42,783:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_220623_26.pdf
+2025-02-03 11:12:42,783:INFO:Highlighted data section parsed successfully.
+2025-02-03 11:12:42,783:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_220824_34.pdf
+2025-02-03 11:12:44,813:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_220824_34.pdf
+2025-02-03 11:12:44,841:WARNING:No valid data rows parsed from the report.
+2025-02-03 11:12:44,841:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_220922_39.pdf
+2025-02-03 11:12:46,496:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_220922_39.pdf
+2025-02-03 11:12:46,513:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_221021_43.pdf
+2025-02-03 11:12:47,940:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_221021_43.pdf
+2025-02-03 11:12:47,945:WARNING:No valid data rows parsed from the report.
+2025-02-03 11:12:47,945:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_221217_52.pdf
+2025-02-03 11:12:48,391:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_221217_52.pdf
+2025-02-03 11:12:48,396:WARNING:No valid data rows parsed from the report.
+2025-02-03 11:12:48,396:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_221222_52.pdf
+2025-02-03 11:12:50,283:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_221222_52.pdf
+2025-02-03 11:12:50,298:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_230223_9.pdf
+2025-02-03 11:12:51,779:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_230223_9.pdf
+2025-02-03 11:12:51,779:INFO:Highlighted data section parsed successfully.
+2025-02-03 11:12:51,779:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_230323_13.pdf
+2025-02-03 11:12:54,007:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_230323_13.pdf
+2025-02-03 11:12:54,012:INFO:Highlighted data section parsed successfully.
+2025-02-03 11:12:54,012:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_230422_17.pdf
+2025-02-03 11:12:56,140:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_230422_17.pdf
+2025-02-03 11:12:56,145:WARNING:No valid data rows parsed from the report.
+2025-02-03 11:12:56,145:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_230622_26.pdf
+2025-02-03 11:12:58,224:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_230622_26.pdf
+2025-02-03 11:12:58,245:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_230721_30.pdf
+2025-02-03 11:12:58,274:ERROR:Error extracting text from pdfs\An Update of Monkeypox Outbreak in Nigeria_230721_30.pdf: No /Root object! - Is this really a PDF?
+2025-02-03 11:12:58,274:INFO:No valid data extracted from pdfs\An Update of Monkeypox Outbreak in Nigeria_230721_30.pdf
+2025-02-03 11:12:58,274:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_231117_48.pdf
+2025-02-03 11:12:59,067:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_231117_48.pdf
+2025-02-03 11:12:59,073:WARNING:No valid data rows parsed from the report.
+2025-02-03 11:12:59,073:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_231123_48.pdf
+2025-02-03 11:13:01,240:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_231123_48.pdf
+2025-02-03 11:13:01,245:INFO:Highlighted data section parsed successfully.
+2025-02-03 11:13:01,245:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_240823_35.pdf
+2025-02-03 11:13:03,690:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_240823_35.pdf
+2025-02-03 11:13:03,690:INFO:Highlighted data section parsed successfully.
+2025-02-03 11:13:03,690:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_241024_43.pdf
+2025-02-03 11:13:03,796:ERROR:Error extracting text from pdfs\An Update of Monkeypox Outbreak in Nigeria_241024_43.pdf: Unexpected EOF
+2025-02-03 11:13:03,796:INFO:No valid data extracted from pdfs\An Update of Monkeypox Outbreak in Nigeria_241024_43.pdf
+2025-02-03 11:13:03,796:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_241122_48.pdf
+2025-02-03 11:13:05,761:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_241122_48.pdf
+2025-02-03 11:13:05,778:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_250118_4.pdf
+2025-02-03 11:13:06,333:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_250118_4.pdf
+2025-02-03 11:13:06,340:WARNING:No valid data rows parsed from the report.
+2025-02-03 11:13:06,340:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_250124_4.pdf
+2025-02-03 11:13:07,962:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_250124_4.pdf
+2025-02-03 11:13:07,962:INFO:Highlighted data section parsed successfully.
+2025-02-03 11:13:07,962:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_250218_9.pdf
+2025-02-03 11:13:09,079:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_250218_9.pdf
+2025-02-03 11:13:09,090:WARNING:No valid data rows parsed from the report.
+2025-02-03 11:13:09,090:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_250523_22.pdf
+2025-02-03 11:13:09,217:ERROR:Error extracting text from pdfs\An Update of Monkeypox Outbreak in Nigeria_250523_22.pdf: Unexpected EOF
+2025-02-03 11:13:09,217:INFO:No valid data extracted from pdfs\An Update of Monkeypox Outbreak in Nigeria_250523_22.pdf
+2025-02-03 11:13:09,217:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_250621_26.pdf
+2025-02-03 11:13:10,639:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_250621_26.pdf
+2025-02-03 11:13:10,644:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_250822_35.pdf
+2025-02-03 11:13:12,448:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_250822_35.pdf
+2025-02-03 11:13:12,466:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_251221_52.pdf
+2025-02-03 11:13:14,250:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_251221_52.pdf
+2025-02-03 11:13:14,256:WARNING:No valid data rows parsed from the report.
+2025-02-03 11:13:14,256:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_260123_5.pdf
+2025-02-03 11:13:16,000:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_260123_5.pdf
+2025-02-03 11:13:16,000:INFO:Highlighted data section parsed successfully.
+2025-02-03 11:13:16,000:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_260322_13.pdf
+2025-02-03 11:13:16,000:ERROR:Error extracting text from pdfs\An Update of Monkeypox Outbreak in Nigeria_260322_13.pdf: No /Root object! - Is this really a PDF?
+2025-02-03 11:13:16,000:INFO:No valid data extracted from pdfs\An Update of Monkeypox Outbreak in Nigeria_260322_13.pdf
+2025-02-03 11:13:16,000:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_260924_39.pdf
+2025-02-03 11:13:16,823:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_260924_39.pdf
+2025-02-03 11:13:16,840:WARNING:No valid data rows parsed from the report.
+2025-02-03 11:13:16,840:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_261023_44.pdf
+2025-02-03 11:13:19,023:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_261023_44.pdf
+2025-02-03 11:13:19,028:INFO:Highlighted data section parsed successfully.
+2025-02-03 11:13:19,028:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_270423_18.pdf
+2025-02-03 11:13:21,194:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_270423_18.pdf
+2025-02-03 11:13:21,194:INFO:Highlighted data section parsed successfully.
+2025-02-03 11:13:21,199:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_270522_22.pdf
+2025-02-03 11:13:22,978:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_270522_22.pdf
+2025-02-03 11:13:22,989:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_270723_31.pdf
+2025-02-03 11:13:25,699:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_270723_31.pdf
+2025-02-03 11:13:25,706:INFO:Highlighted data section parsed successfully.
+2025-02-03 11:13:25,706:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_280722_31.pdf
+2025-02-03 11:13:25,823:ERROR:Error extracting text from pdfs\An Update of Monkeypox Outbreak in Nigeria_280722_31.pdf: Unexpected EOF
+2025-02-03 11:13:25,823:INFO:No valid data extracted from pdfs\An Update of Monkeypox Outbreak in Nigeria_280722_31.pdf
+2025-02-03 11:13:25,823:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_280923_40.pdf
+2025-02-03 11:13:28,222:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_280923_40.pdf
+2025-02-03 11:13:28,222:INFO:Highlighted data section parsed successfully.
+2025-02-03 11:13:28,222:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_290623_27.pdf
+2025-02-03 11:13:31,115:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_290623_27.pdf
+2025-02-03 11:13:31,122:INFO:Highlighted data section parsed successfully.
+2025-02-03 11:13:31,122:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_290824_35.pdf
+2025-02-03 11:13:32,672:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_290824_35.pdf
+2025-02-03 11:13:32,693:WARNING:No valid data rows parsed from the report.
+2025-02-03 11:13:32,693:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_290922_40.pdf
+2025-02-03 11:13:34,905:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_290922_40.pdf
+2025-02-03 11:13:34,922:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_291222_53.pdf
+2025-02-03 11:13:36,628:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_291222_53.pdf
+2025-02-03 11:13:36,633:INFO:Highlighted data section parsed successfully.
+2025-02-03 11:13:36,633:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_300323_14.pdf
+2025-02-03 11:13:38,605:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_300323_14.pdf
+2025-02-03 11:13:38,610:INFO:Highlighted data section parsed successfully.
+2025-02-03 11:13:38,610:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_300622_27.pdf
+2025-02-03 11:13:40,543:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_300622_27.pdf
+2025-02-03 11:13:40,560:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_300919_40.pdf
+2025-02-03 11:13:41,308:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_300919_40.pdf
+2025-02-03 11:13:41,318:WARNING:No valid data rows parsed from the report.
+2025-02-03 11:13:41,322:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_301119_48.pdf
+2025-02-03 11:13:42,114:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_301119_48.pdf
+2025-02-03 11:13:42,114:WARNING:No valid data rows parsed from the report.
+2025-02-03 11:13:42,122:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_301123_49.pdf
+2025-02-03 11:13:48,054:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_301123_49.pdf
+2025-02-03 11:13:48,056:INFO:Highlighted data section parsed successfully.
+2025-02-03 11:13:48,056:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_310119_5.pdf
+2025-02-03 11:13:51,793:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_310119_5.pdf
+2025-02-03 11:13:51,803:WARNING:No valid data rows parsed from the report.
+2025-02-03 11:13:51,821:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_310819_35.pdf
+2025-02-03 11:13:54,532:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_310819_35.pdf
+2025-02-03 11:13:54,537:WARNING:No valid data rows parsed from the report.
+2025-02-03 11:13:54,542:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_310823_36.pdf
+2025-02-03 11:14:00,129:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_310823_36.pdf
+2025-02-03 11:14:00,134:INFO:Highlighted data section parsed successfully.
+2025-02-03 11:14:00,134:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_311019_44.pdf
+2025-02-03 11:14:02,444:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_311019_44.pdf
+2025-02-03 11:14:02,459:WARNING:No valid data rows parsed from the report.
+2025-02-03 11:14:02,469:INFO:Processing file: pdfs\An Update of Monkeypox Outbreak in Nigeria_311219_53.pdf
+2025-02-03 11:14:04,129:INFO:Successfully extracted text from pdfs\An Update of Monkeypox Outbreak in Nigeria_311219_53.pdf
+2025-02-03 11:14:04,134:WARNING:No valid data rows parsed from the report.
+2025-02-03 11:14:04,474:INFO:CSV successfully written to parsed_report_2.csv
