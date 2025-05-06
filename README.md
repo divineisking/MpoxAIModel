@@ -1,4 +1,4 @@
-# ncdc_scraper
+# Monkeypox ANN Predictive Model
 pls switch to the master branch before cloning 
 This is a data scraper tool designe to scrap for mpox incidence data from publicly available repos
 
