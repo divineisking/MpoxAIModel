@@ -1,6 +1,6 @@
 # Monkeypox ANN Predictive Model
-pls switch to the master branch before cloning 
-This is a data scraper tool designe to scrap for mpox incidence data from publicly available repos
+pls switch to the master branch before cloning. 
+This is a data scraper tool designed to scrap for mpox incidence data from publicly available repos
 
 
 * to run the php webscraper install guzzle with composer
@@ -13,3 +13,6 @@ This is a data scraper tool designe to scrap for mpox incidence data from public
 ### LLM Scraping Feature.
 Built Integration with Meta's LLAMA to extract relevant data from the documents. 
 - To Implement please switch to the Feature-1 branch.
+
+### Model COde
+- The source code for this Mpox model will added shortly along with the analytical scripts and results.
